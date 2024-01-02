@@ -1,1 +1,2 @@
-[[test]]
+- [[Midjourney 和 SD 的使用心得分享]]
+- [[⛑Bug-Out Bag]]
