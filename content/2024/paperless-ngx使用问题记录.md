@@ -17,7 +17,7 @@ date: 2023-12-29 10:33:57
 ==很简单的问题，是因为 paperless-ngx 安装需要依赖 Redis 服务。本机如果没有安装过的话，就一直无法启动。==
 我的解决方法是在本机装了一个 Redis 服务，也是在 Docker 中安装的。安装 Redis 的方法是参考了 [[群晖 Docker 安装 redis|这篇文章]][^1]
 安装完成之后，在 paperlessngx 的环境变量中添加一个 Redis 的服务地址。这一点可以参考官方文档里说明。
-![Screenshot2023012029010043002.png|600](https://pic.237484.xyz/2023/12/202312291044404.png)
+![Screenshot2023012029010043002.png|600](https://pic.237484.xyz/2023/12/202312291044404.png) ^5b42cd
 
 ```
 PAPERLESS_REDIS = `redis://:<password>@<host>:<port>`
