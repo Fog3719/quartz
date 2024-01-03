@@ -1,11 +1,18 @@
 ---
-tags: Midjourney,prompt, StableDiffusion, webui
-aliases: Midjourney 和 SD 的使用心得分享
+aliases:
+  - Midjourney 和 SD 的使用心得分享
+draft: false
+tags:
+  - Midjourney
+  - prompt
+  - StableDiffusion
+  - webui
 date: 2023-04-15 12:42
 date modified: 2023-04-17 11:02
 profileName: Midmonkey
+title: Midjourney 和 SD 的使用心得分享
 ---
-首先，让我们来谈一下 Midjourney。总的来说，V5 版本的效果还是不错的。但是，我不是很喜欢在 Discord 上使用它。总感觉它就像一个玩具，用来做生产力工具还是有些麻烦。
+首先，让我们来说一下 Midjourney。总的来说，V5 版本的效果还是不错的。但是，我不是很喜欢在 Discord 上使用它。总感觉它就像一个玩具，用来做生产力工具还是有些麻烦。
 ![midjourney-website](https://txx-1257178398.cos.ap-shanghai.myqcloud.com/uPic/W8VOcb.jpg)
 
 最近，我比较常使用 niji 模型来生成插图，同时配合最新推出的 describes image 功能，真的很方便。将 Midjourney 生成的插图再放到 illustrator 里转换为矢量图像，就可以任意修改了。
@@ -16,7 +23,7 @@ profileName: Midmonkey
 
 我特别希望有一个类似于 SD 的 webui 操作页面，这样会更有效率一些。还有就是它的价格相对于开源的 SD 来说是太贵了。
 ![comfyUI](https://txx-1257178398.cos.ap-shanghai.myqcloud.com/uPic/cgjhtN.jpg)
-接下来说说 Stable Diffusion。我最先使用的是它，第一印象就是它比 Midjourney 更像是一个真正的生产力工具。因为它有多个 webUI 界面 [AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 和 [ComfyUI](https://github.com/comfyanonymous/ComfyUI)。其中 ComfyUI 非常酷，可以实现很多在 webUI 中搞不定的效果，绝对值得研究一下。Stable Diffusion 有灵活的部署方式（本地部署、云端部署）。此外，社区开源的模型也非常多不过 NSFW 的模型很泛滥，在 Negative prompt 中需要增加的关键词很多。不过 SD 有 embeddings 这种训练好的数据集直接下载一个引用一下就好了，还有很多社区插件，最有名的就是 ControlNet，这个插件大幅度降低了生成图片的随机性，也可以让 prompt 不需要在关注人物的姿势和构图了。最新版已经可以用来控制人物表情了。😄 
+接下来说说 Stable Diffusion。我最先使用的是它，第一印象就是它比 Midjourney 更像是一个真正的生产力工具。因为它有多个 webUI 界面 [AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 和 [ComfyUI](https://github.com/comfyanonymous/ComfyUI)。其中 ComfyUI 非常酷，可以实现很多在 webUI 中搞不定的效果，绝对值得研究一下。Stable Diffusion 有灵活的部署方式（本地部署、云端部署）。此外，社区开源的模型也非常多不过 NSFW 的模型很泛滥，在 Negative prompt 中需要增加的关键词很多。不过 SD 有 embeddings 这种训练好的数据集直接下载一个引用一下就好了，还有很多社区插件，最有名的就是 ControlNet，这个插件大幅度降低了生成图片的随机性，也可以让 prompt 不需要在关注人物的姿势和构图了。最新版已经可以用来控制人物表情了。😄
 ![sdwebui](https://txx-1257178398.cos.ap-shanghai.myqcloud.com/uPic/i9OnHY.jpg)
 顺便说一句，一直觉得这种文本生成图片的方式非常愚蠢，我的工作流一般是先在 Pinterest 上搜索合适的图片，之后再放到 Midjourney 中生成 prompt，选一个差不多的让它生成一张看看效果，之后再调整 prompt，增加一些想要的元素或需要强调的。直到满意为止。如果还需要继续调整，可以直接放到 illustrator
 

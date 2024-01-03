@@ -1,10 +1,9 @@
 ---
-aliases:  '⛑Bug-Out Bag'
+aliases:
+  - ⛑Bug-Out Bag
 date: 2020-02-23 22:10:34
-tags: Covid-19  HomeStorage 
-feature: https://txx-1257178398.cos.ap-shanghai.myqcloud.com/dawn-armfield-28v9cq7ytNU-unsplash.jpg
-date created: 2022-09-29 14:14
-date modified: 2022-12-10 11:59
+tags:
+  - HomeStorage
 draft: false
 ---
 
@@ -18,6 +17,7 @@ draft: false
 ![电影剧照](https://txx-1257178398.cos.ap-shanghai.myqcloud.com/121936.jpg)
 
 生存主义者中有一个术语 -BOB（[bug-out bag](https://en.wikipedia.org/wiki/Bug-out_bag)），维基里的解释是
+
 > A pack containing everything needed to leave your home and never return……
 
 在网上找了一些相关资料后，决定自己做一个属于自己的应急包。具体构建方法参考了这个 [How To Build A Go-Bag | 5.11 Tactical](https://youtu.be/vAdjJvoRGuk)，视频里讲的最重要的有三点：
