@@ -24,7 +24,7 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
+    Component.DesktopOnly(Component.Search()),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
       sortFn: (a, b) => {
@@ -65,7 +65,7 @@ export const defaultContentPageLayout: PageLayout = {
     ),
   ],
   right: [
-    Component.TableOfContents(),
+    Component.DesktopOnly(Component.TableOfContents()),
     Component.Graph(),
     Component.Backlinks()
     
