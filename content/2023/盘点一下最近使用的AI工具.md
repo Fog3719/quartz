@@ -1,13 +1,12 @@
 ---
-aliases: 盘点一下最近使用的AI工具
-created: 2023-04-15 10:06
-tags: Bullet-Notes 
+aliases:
+  - 盘点一下最近使用的AI工具
+date: 2023-06-15 10:06
+tags:
+  - Midjourney
+  - StableDiffusion
 shanghai: ⛅️  🌡️+17°C 🌬️↘19km/h
 number headings: auto, first-level 1, max 6, _.1.1
-note_type: Bullet
-links: 
-banner_icon: ☀️
-id: 20230415100616-# e7b4ba08-b2fd-4ca4-a110-453824e48e58
 ---
 # 盘点一下最近折腾过的AI服务&工具
 

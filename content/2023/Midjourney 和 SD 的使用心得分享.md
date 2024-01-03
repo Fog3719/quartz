@@ -1,7 +1,7 @@
 ---
 tags: Midjourney,prompt, StableDiffusion, webui
 aliases: Midjourney 和 SD 的使用心得分享
-date created: 2023-04-15 12:42
+date: 2023-04-15 12:42
 date modified: 2023-04-17 11:02
 profileName: Midmonkey
 ---
@@ -28,4 +28,4 @@ Stable Diffusion 非常适合在某一领域内集中训练一个模型来使用
 
 我一直相信，这种 AIGC 的软件最好能支持个人用户本地部署。因为完全的在线服务实在有点不让人放心，特别是在我们所处的这个网络环境下。
 
-总之，如果你不想花太多钱买显卡或者没有特别的需求，可以直接选择 Midjourney。而如果你是专业设计师并且需要更高稳定的生成结果，则推荐使用 Stable Diffusion。
+总之，如果不想花太多钱买显卡或者没有特别的需求，可以直接选择 Midjourney。而如果是专业设计师并且需要更高稳定的生成结果，则推荐使用 Stable Diffusion。
