@@ -1,17 +1,16 @@
 ---
 aliases:
   - ⛑Bug-Out Bag
-date: 2020-02-23 22:10:34
+date: 2020-02-23 10:10:34
 tags:
   - HomeStorage
 draft: false
+date modified: 2024-01-03 03:40:22
 ---
-
-# ⛑Bug-Out Bag
 
 前俩天在豆瓣上看到一个帖子说的是，这次疫情给你带什么改变？有人说改变了自己不喜欢囤货的想法，有人说改变了自己的消费主义想法。而给我的改变是意识到应急储备的重要性。
 
-说起来这种应急储备的计划，在电影里倒是很常见，最近看过的是 [科洛弗道10号Cloverfield Lane (2016)](https://movie.douban.com/subject/2977957/)，里面那个地堡真的太完美了。（才发现女主玛丽·伊丽莎白·温斯特德 Mary Elizabeth Winstead 是也是 [双子杀手 Gemini Man (2019)](https://movie.douban.com/subject/3097572/) 的女主。）在美国一直都有这种为末日生存做准备的传统，叫 Survivalism- 生存主义 [^1]。这么说来，「辐射☢️」系列这种后启示录的作品都是这种生存主义的延续。
+说起来这种应急储备的计划，在电影里倒是很常见，最近看过的是 [科洛弗道10号Cloverfield Lane (2016)](https://movie.douban.com/subject/2977957/)，里面那个地堡真的太完美了。（才发现女主 Mary Elizabeth Winstead 是也是 [双子杀手 Gemini Man (2019)](https://movie.douban.com/subject/3097572/) 的女主。）在美国一直都有这种为末日生存做准备的传统，叫 Survivalism- 生存主义 [^1]。这么说来，「辐射☢️」系列这种后启示录的作品都是这种生存主义的延续。
 <!-- more -->
 
 ![电影剧照](https://txx-1257178398.cos.ap-shanghai.myqcloud.com/121936.jpg)
@@ -56,7 +55,5 @@ draft: false
 - [ ] 伞绳
 - [ ] 最最重要的呼吸口罩（火灾时必备的物品）
 暂时想到就这些了，之后在采购的过程中如有更好的物资，再补充到 [[应急清单]]
-
-Cover image by Dawn Armfield on Unsplash
 
 [^1]: https://en.wikipedia.org/wiki/Survivalism
