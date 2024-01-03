@@ -1,13 +1,13 @@
 ---
 tags: 
-draft: false
+draft: true
 date: 2024-01-03 09:18:09
 date modified: 2024-01-03 09:18:40
 ---
 
 [Rocket typist](https://witt-software.com/rockettypist/)
 
-[textexpander](https://textexpander.com/)
+[[Textexpander]] [textexpander](https://textexpander.com/)
 
 这两个软件都是效率输入类软件，他们解决的使用场景都是在一些需要重复性输入文本的时候，可以根据事先设定好的短语自动填写。看上去只是省去了一些⌘C 和⌘V 的过程，但是工作的过程中很强调一个流畅的过程，最好应该是双手不需要离开键盘就完成所有的文本输入类工作。每一次的⌘C 和⌘V 其实都会打断着这个思考的过程。
 
