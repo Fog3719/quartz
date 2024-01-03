@@ -8,13 +8,13 @@ tags:
   - Software
 number headings: auto, first-level 1, max 6, _.1.1
 id: 20231229103422-f145cbaa-f2ed-4674-9a78-70b3cc8ffaf8
-date modified: 2024-01-03 12:51:40
+date modified: 2024-01-03 01:14:43
 date: 2023-12-29 10:33:57
 ---
 
 ## 1 Docker 安装一直报 Redis:6379 错误？
 
-很简单的问题，是因为 paperless-ngx 安装需要依赖 Redis 服务。本机如果没有安装过的话，就一直无法启动。
+==很简单的问题，是因为 paperless-ngx 安装需要依赖 Redis 服务。本机如果没有安装过的话，就一直无法启动。==
 我的解决方法是在本机装了一个 Redis 服务，也是在 Docker 中安装的。安装 Redis 的方法是参考了 [[群晖 Docker 安装 redis|这篇文章]][^1]
 安装完成之后，在 paperlessngx 的环境变量中添加一个 Redis 的服务地址。这一点可以参考官方文档里说明。
 ![Screenshot2023012029010043002.png|600](https://pic.237484.xyz/2023/12/202312291044404.png)
@@ -57,6 +57,5 @@ https://docs.paperless-ngx.com/configuration/#PAPERLESS_LOGOUT_REDIRECT_URL
 
 up:: [[常用软件分享]]
 same::
-
 
 [^1]: https://zhuanlan.zhihu.com/p/609267375
