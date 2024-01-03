@@ -1,12 +1,17 @@
 ---
+aliases: [Reference]
 tags: 
 draft: true
 date: 2024-01-03 11:01:08
-date modified: 2024-01-03 11:10:40
+date modified: 2024-01-03 12:49:18
 enableToc: true
 ---
-
 
 ## 无语的文件结构
 
 官方文档对于文件结构的说明一直语焉不详，官方的 demo 里也没有对应的文件管理器。这对于普通用户来说实在太难用了。
+
+# Reference
+
+up:: [[常用软件分享]]
+same::

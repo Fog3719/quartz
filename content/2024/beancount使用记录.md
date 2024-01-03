@@ -1,6 +1,7 @@
 ---
 draft: false
 aliases:
+  - Reference
   - Beancount 使用问题记录
   - beancount
 number headings: auto, first-level 1, max 6, _.1.1
@@ -11,7 +12,7 @@ shanghai: ☀️ 🌡️+4°C 🌬️↘22km/h
 note_type: 
 links: 
 date: 2023-12-01 08:52:00
-date modified: 2024-01-03 12:29:35
+date modified: 2024-01-03 12:49:12
 banner: 
 id: 20231201085304-64470873-0197-40b4-a223-85d062d72059
 ---
@@ -169,6 +170,11 @@ In addition, a grey dot will be shown if the account has not been updated in a w
 ## 17 其他插件
 
 也有尝试了一些信封预算的插件，有点复杂，徒增烦恼。fava 自带的预算指令已经很清晰了。
+
+# Reference
+
+up:: [[常用软件分享]]
+same::
 
 [^1]: [Beancount 语言语法 - Beancount 文档](https://beancount.github.io/docs/beancount_language_syntax.html#the-tag-stack)
 [^2]: https://github.com/beancount/fava/issues/908#issuecomment-489360641
