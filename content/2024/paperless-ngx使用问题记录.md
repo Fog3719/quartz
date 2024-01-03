@@ -58,7 +58,7 @@ https://docs.paperless-ngx.com/configuration/#PAPERLESS_LOGOUT_REDIRECT_URL
 
 # Reference
 
-up:: [[常用软件分享]]
+up:: [[常用软件分享]] [[2024]]
 same::
 
 [^1]: https://zhuanlan.zhihu.com/p/609267375

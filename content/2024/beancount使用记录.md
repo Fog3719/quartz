@@ -12,7 +12,7 @@ shanghai: ☀️ 🌡️+4°C 🌬️↘22km/h
 note_type: 
 links: 
 date: 2023-12-01 08:52:00
-date modified: 2024-01-03 05:05:30
+date modified: 2024-01-03 08:56:02
 banner: 
 id: 20231201085304-64470873-0197-40b4-a223-85d062d72059
 ---
@@ -173,8 +173,7 @@ In addition, a grey dot will be shown if the account has not been updated in a w
 
 # Reference
 
-up:: [[常用软件分享]]
-same::
+up:: [[常用软件分享]]  [[2024]]
 
 [^1]: [Beancount 语言语法 - Beancount 文档](https://beancount.github.io/docs/beancount_language_syntax.html#the-tag-stack)
 [^2]: https://github.com/beancount/fava/issues/908#issuecomment-489360641

@@ -51,5 +51,10 @@ tags:
 
 我在想我一个普通的中年男性能做些什么呢？时刻警惕自己男性凝视的视角算一个吧。
 
+
+up:: [[2020]]
+
 [^1]: http://news.bbc.co.uk/chinese/simp/hi/newsid_3230000/newsid_3233300/3233368.stm
 [^2]: https://www.thebeijinger.com/forum/2011/05/07/wtf
+
+
