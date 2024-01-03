@@ -12,7 +12,7 @@ shanghai: ☀️ 🌡️+4°C 🌬️↘22km/h
 note_type: 
 links: 
 date: 2023-12-01 08:52:00
-date modified: 2024-01-03 04:31:07
+date modified: 2024-01-03 05:05:30
 banner: 
 id: 20231201085304-64470873-0197-40b4-a223-85d062d72059
 ---
@@ -47,8 +47,8 @@ beancount 账户格式要求二级账户必须大写英文字母开头，至于�
 
 ```lisp
 2023-12-29 # "借款利息 [DAILY UNTIL 2024-01-10]"
-	Expenses:Interest:Wechat (10000 * 0.0003) CNY
-	Liabilities:CreditCard:Wechat
+	Expenses:Interest:XXXX (10000 * 0.0003) CNY
+	Liabilities:CreditCard:XXXX
 ```
 
 ## 5 如何设置预算？
@@ -56,7 +56,7 @@ beancount 账户格式要求二级账户必须大写英文字母开头，至于�
 fava 有一个预算设置命令，在帮助文档中有详细的说明。比较简单。
 
 ```lisp
-2024-01-01 custom "budget" Expenses:HouseholdBills:Internet "yearly" 800.00 CNY ;宽带预算1年800元
+2024-01-01 custom "budget" Expenses:HouseholdBills:Internet "yearly" 1200.00 CNY ;宽带预算1年1200元
 
 2024-01-01 custom "budget" Expenses:Car:CommuteParking "monthly" 300.00 CNY ;通勤停车位 每个月300元
 
@@ -66,11 +66,11 @@ fava 有一个预算设置命令，在帮助文档中有详细的说明。比较
 
 2024-01-01 custom "budget" Expenses:Personal:Clothing "monthly" 50.00 CNY ; 每个月服装费 50
 
-2024-01-01 custom "budget" Expenses:Personal:Haircut "monthly" 35.00 CNY ;每个月理发 35
+2024-01-01 custom "budget" Expenses:Personal:Haircut "monthly" 50.00 CNY ;每个月理发 50
 
-2024-01-01 custom "budget" Expenses:Personal:Coffice "quarterly" 300.00 CNY ;每3个月咖啡豆 300
+2024-01-01 custom "budget" Expenses:Personal:Coffice "quarterly" 400.00 CNY ;每3个月咖啡豆 
 
-2024-01-01 custom "budget" Expenses:HouseholdBills:Property "yearly" 693.00 CNY ;物业费
+2024-01-01 custom "budget" Expenses:HouseholdBills:Property "yearly" 3124.00 CNY ;物业费
 ```
 
 ## 6 其他预算插件
@@ -170,8 +170,6 @@ In addition, a grey dot will be shown if the account has not been updated in a w
 ## 17 其他插件
 
 也有尝试了一些信封预算的插件，有点复杂，徒增烦恼。fava 自带的预算指令已经很清晰了。
-
-
 
 # Reference
 
