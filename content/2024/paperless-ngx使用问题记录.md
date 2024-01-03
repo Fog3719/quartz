@@ -30,6 +30,8 @@ PAPERLESS_REDIS = `redis://:<password>@<host>:<port>`
 
 ## 3 内网穿透时无法访问
 
+^134a20
+
 根据官方文档的说明增加一个环境变量就好了。
 
 ![Screenshot2023012029010051056.png|600](https://pic.237484.xyz/2023/12/202312291052713.png)

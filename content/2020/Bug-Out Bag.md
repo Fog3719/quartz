@@ -8,7 +8,7 @@ draft: false
 date modified: 2024-01-03 03:40:22
 ---
 
-前俩天在豆瓣上看到一个帖子说的是，这次疫情给你带什么改变？有人说改变了自己不喜欢囤货的想法，有人说改变了自己的消费主义想法。而给我的改变是意识到应急储备的重要性。
+前俩天在豆瓣上看到一个帖子说的是，这次疫情给你带什么改变？有人说改变了自己不喜欢囤货的想法，有人说改变了自己的消费主义想法。而给我的改变是意识到应急储备的重要性。 ^aa04c1
 
 说起来这种应急储备的计划，在电影里倒是很常见，最近看过的是 [科洛弗道10号Cloverfield Lane (2016)](https://movie.douban.com/subject/2977957/)，里面那个地堡真的太完美了。（才发现女主 Mary Elizabeth Winstead 是也是 [双子杀手 Gemini Man (2019)](https://movie.douban.com/subject/3097572/) 的女主。）在美国一直都有这种为末日生存做准备的传统，叫 Survivalism- 生存主义 [^1]。这么说来，「辐射☢️」系列这种后启示录的作品都是这种生存主义的延续。
 <!-- more -->
@@ -19,7 +19,7 @@ date modified: 2024-01-03 03:40:22
 
 > A pack containing everything needed to leave your home and never return……
 
-在网上找了一些相关资料后，决定自己做一个属于自己的应急包。具体构建方法参考了这个 [How To Build A Go-Bag | 5.11 Tactical](https://youtu.be/vAdjJvoRGuk)，视频里讲的最重要的有三点：
+在网上找了一些相关资料后，决定自己做一个属于自己的应急包。具体构建方法参考了这个 [How To Build A Go-Bag | 5.11 Tactical](https://youtu.be/vAdjJvoRGuk)，视频里讲的最重要的有三点： ^e416ca
 
 1. **预计要面对的威胁是什么？**
 2. **环境 - 居住环境和目的地环境**

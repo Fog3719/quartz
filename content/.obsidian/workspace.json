@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/Quartz 4.0 使用记录.md",
-                "mode": "source",
-                "source": false
+                "file": "2024/beancount使用记录.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/Quartz 4.0 使用记录.md",
+                "file": "2024/beancount使用记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/Quartz 4.0 使用记录.md",
+                "file": "2024/beancount使用记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/Quartz 4.0 使用记录.md"
+                "file": "2024/beancount使用记录.md"
               }
             }
           }
@@ -148,16 +148,16 @@
   },
   "active": "a2a8765e61f10d8f",
   "lastOpenFiles": [
-    "2020/Bug-Out Bag.md",
     "2024/Quartz 4.0 使用记录.md",
-    "2024/paperless-ngx使用问题记录.md",
     "2024/beancount使用记录.md",
+    "index.md",
+    "2020/Bug-Out Bag.md",
+    "2024/paperless-ngx使用问题记录.md",
     "2022/上海解封后的第120天.md",
     "2023/盘点一下最近使用的AI工具.md",
     "2023/Midjourney 和 SD 的使用心得分享.md",
     "2020/index.md",
     "2024/index.md",
-    "index.md",
     "2020/复工的第三天.md",
     "2020/2020年终回顾.md",
     "2020/2020年软件产品消费记录.md",
