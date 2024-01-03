@@ -26,24 +26,14 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.Explorer(),
+    Component.DesktopOnly(Component.Explorer()),
     Component.DesktopOnly(
       Component.RecentNotes({
-        title: "Recent Essays",
+        title: "Recent Note",
         limit: 3,
-        filter: (f) =>
-          f.slug!.startsWith("essays/") && f.slug! !== "essays/index" && !f.frontmatter?.noindex,
-        linkToMore: "essays/" as SimpleSlug,
+        filter: (f) => f.frontmatter?.date && new Date(f.frontmatter.date) <= new Date()
       }),
     ),
-    Component.DesktopOnly(
-      Component.RecentNotes({
-        title: "Recent Thoughts",
-        limit: 2,
-        filter: (f) => f.slug!.startsWith("thoughts/"),
-        linkToMore: "thoughts/" as SimpleSlug,
-      }),
-    )
   ],
   right: [
     Component.TableOfContents(),
