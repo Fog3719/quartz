@@ -8,7 +8,7 @@ tags:
   - Software
 number headings: auto, first-level 1, max 6, _.1.1
 id: 20231229103422-f145cbaa-f2ed-4674-9a78-70b3cc8ffaf8
-date modified: 2024-01-03 01:14:43
+date modified: 2024-01-03 02:06:08
 date: 2023-12-29 10:33:57
 ---
 
@@ -49,8 +49,9 @@ PAPERLESS_REDIS = `redis://:<password>@<host>:<port>`
 `PAPERLESS_FILENAME_FORMAT` 这个环境变量可以设置默认的存储路径。
 ![Screenshot2023012029011040041.png|600](https://pic.237484.xyz/2023/12/202312291147788.png)
 
-5 官方文档
+## 5 官方文档
 
+官方文档其实写的很清晰，基本大部分遇到的问题都可以通过文档来解决。
 https://docs.paperless-ngx.com/configuration/#PAPERLESS_LOGOUT_REDIRECT_URL
 
 # Reference
