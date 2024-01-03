@@ -1,17 +1,13 @@
 ---
-aliases:
-  - Midjourney 和 SD 的使用心得分享
 draft: false
 tags:
   - Midjourney
-  - prompt
   - StableDiffusion
-  - webui
 date: 2023-04-15 12:42
 date modified: 2023-04-17 11:02
-profileName: Midmonkey
 title: Midjourney 和 SD 的使用心得分享
 ---
+
 首先，让我们来说一下 Midjourney。总的来说，V5 版本的效果还是不错的。但是，我不是很喜欢在 Discord 上使用它。总感觉它就像一个玩具，用来做生产力工具还是有些麻烦。
 ![midjourney-website](https://txx-1257178398.cos.ap-shanghai.myqcloud.com/uPic/W8VOcb.jpg)
 
