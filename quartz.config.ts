@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "👨🏻Monkey Haven🐒",
+    pageTitle: "MonkeyHaven🐒",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -45,7 +45,7 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
-      Plugin.TableOfContents(),
+      Plugin.TableOfContents({ collapseByDefault: false }),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "filesystem"], // you can add 'git' here for last modified from Git but this makes the build slower
       }),

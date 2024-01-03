@@ -26,6 +26,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
+    Component.Explorer(),
     Component.DesktopOnly(
       Component.RecentNotes({
         title: "Recent Essays",
@@ -45,9 +46,10 @@ export const defaultContentPageLayout: PageLayout = {
     )
   ],
   right: [
+    Component.TableOfContents(),
     Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.Backlinks()
+    
   ],
 }
 
@@ -61,6 +63,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Darkmode(),
   ],
   right: [
+    
 
   ],
 }

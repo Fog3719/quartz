@@ -5,7 +5,8 @@ aliases:
   - beancount
 number headings: auto, first-level 1, max 6, _.1.1
 created: 2023-12-01 08:52
-tags: 
+tags:
+  - Software
 shanghai: ☀️ 🌡️+4°C 🌬️↘22km/h
 note_type: 
 links: 
