@@ -8,7 +8,6 @@ date modified: 2024-01-04 04:01:49
 
 ![underwater](https://pic.237484.xyz/uPic/underwater.webp)
 
-- [[Midjourney 和 SD 的使用心得分享]]
 - [[上海解封后的第120天]]
 - [[复工的第三天]]
 - [[2020年复工的第一周]]

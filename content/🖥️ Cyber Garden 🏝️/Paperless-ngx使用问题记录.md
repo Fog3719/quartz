@@ -7,7 +7,7 @@ tags:
   - Software
 number headings: auto, first-level 1, max 6, _.1.1
 id: 20231229103422-f145cbaa-f2ed-4674-9a78-70b3cc8ffaf8
-date modified: 2024-01-04 09:18:36
+date modified: 2024-01-04 05:08:39
 date: 2023-12-29 10:33:57
 up: "[[🖥️ Cyber Garden 🏝️]]"
 ---
@@ -15,7 +15,7 @@ up: "[[🖥️ Cyber Garden 🏝️]]"
 ## 1 Docker 安装一直报 Redis:6379 错误？
 
 ==很简单的问题，是因为 paperless-ngx 安装需要依赖 Redis 服务。本机如果没有安装过的话，就一直无法启动。==
-我的解决方法是在本机装了一个 Redis 服务，也是在 Docker 中安装的。安装 Redis 的方法是参考了 [[群晖 Docker 安装 redis|这篇文章]][^1]
+我的解决方法是在本机装了一个 Redis 服务，也是在 Docker 中安装的。安装 Redis 的方法是参考了这篇文章 [^1]
 安装完成之后，在 paperlessngx 的环境变量中添加一个 Redis 的服务地址。这一点可以参考官方文档里说明。
 ![Screenshot2023012029010043002.png|600](https://pic.237484.xyz/2023/12/202312291044404.png) ^5b42cd
 
@@ -40,7 +40,7 @@ PAPERLESS_REDIS = `redis://:<password>@<host>:<port>`
 > Paperless uses this to make session tokens. If you expose paperless on the internet, you need to change this, since the default secret is well known.
 > Use any sequence of characters. The more, the better. You don't need to remember this. Just face-roll your keyboard.
 > Default is listed in the file `src/paperless/settings.py`.
-> #### 3.1.1 [`PAPERLESS_URL=<url>`](https://docs.paperless-ngx.com/configuration/#PAPERLESS_URL)
+>  #### 3.1.1 [`PAPERLESS_URL=<url>`](https://docs.paperless-ngx.com/configuration/#PAPERLESS_URL)
 > This setting can be used to set the three options below (ALLOWED_HOSTS, CORS_ALLOWED_HOSTS and CSRF_TRUSTED_ORIGINS). If the other options are set the values will be combined with this one. Do not > include a trailing slash. E.g. [https://paperless.domain.com](https://paperless.domain.com/)
 > Defaults to empty string, leaving the other settings unaffected.
 
