@@ -27,8 +27,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🍌Banana Brainwaves🧠/Altered Carbon.md",
-                "mode": "source",
+                "file": "🖥️ Cyber Garden 🏝️/Midjourney 和 SD 的使用心得分享.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍌Banana Brainwaves🧠/Altered Carbon.md",
+                "file": "🖥️ Cyber Garden 🏝️/Midjourney 和 SD 的使用心得分享.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🍌Banana Brainwaves🧠/Altered Carbon.md",
+                "file": "🖥️ Cyber Garden 🏝️/Midjourney 和 SD 的使用心得分享.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🍌Banana Brainwaves🧠/Altered Carbon.md"
+                "file": "🖥️ Cyber Garden 🏝️/Midjourney 和 SD 的使用心得分享.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🍌Banana Brainwaves🧠/Altered Carbon.md",
+                "file": "🖥️ Cyber Garden 🏝️/Midjourney 和 SD 的使用心得分享.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,19 +222,20 @@
   },
   "active": "cbfec06b9f1e18a2",
   "lastOpenFiles": [
-    "🍌Banana Brainwaves🧠/🍌Banana Brainwaves🧠.md",
     "🖥️ Cyber Garden 🏝️/🖥️ Cyber Garden 🏝️.md",
+    "🖥️ Cyber Garden 🏝️/Midjourney 和 SD 的使用心得分享.md",
+    "🍌Banana Brainwaves🧠/🍌Banana Brainwaves🧠.md",
+    "🙊Meanderings🕸️/🙊Meanderings🕸️.md",
+    "index.md",
+    "🍌Banana Brainwaves🧠/Altered Carbon.md",
     "🖥️ Cyber Garden 🏝️/Bug-Out Bag.md",
     "draft/上海电影节三年.md",
-    "🙊Meanderings🕸️/🙊Meanderings🕸️.md",
-    "🍌Banana Brainwaves🧠/Altered Carbon.md",
     "🍌Banana Brainwaves🧠",
     "draft/2020年软件产品消费记录.md",
     "🙊Meanderings🕸️/2020年复工的第一周.md",
     "🙊Meanderings🕸️/复工的第三天.md",
     "🙊Meanderings🕸️/上海解封后的第120天.md",
     "🙊Meanderings🕸️/新冠肺炎下的漫长春节.md",
-    "🖥️ Cyber Garden 🏝️/Midjourney 和 SD 的使用心得分享.md",
     "🖥️ Cyber Garden 🏝️/beancount使用记录.md",
     "draft/Quartz 4.0 使用记录.md",
     "draft/社会羞辱.md",
@@ -249,7 +250,6 @@
     "🖥️ Cyber Garden 🏝️/Notion.md",
     "🖥️ Cyber Garden 🏝️/Obsidian.md",
     "🖥️ Cyber Garden 🏝️/Paperless-ngx使用问题记录.md",
-    "index.md",
     "🖥️ Cyber Garden 🏝️",
     "🖥️ Cyber Garden 🏝️/attachments/Screenshot2024001004010015044.png",
     "🖥️ Cyber Garden 🏝️/attachments/Screenshot2024001004009050046.png",

@@ -14,3 +14,4 @@ date modified: 2024-01-04 01:22:30
 - [[Typora]]
 - [[Paperless-ngx使用问题记录]]
 - [[uPic]]
+- [[Midjourney 和 SD 的使用心得分享]]

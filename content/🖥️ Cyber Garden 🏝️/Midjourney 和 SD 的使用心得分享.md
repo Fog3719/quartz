@@ -2,10 +2,13 @@
 draft: false
 tags: 
 date: 2023-04-15 12:42:00
-date modified: 2024-01-04 10:53:30
+date modified: 2024-01-04 03:47:13
 title: Midjourney 和 SD 的使用心得分享
-up: "[[🙊Meanderings🕸️]]"
+up: "[[🖥️ Cyber Garden 🏝️]]"
 ---
+
+> [!tip] 2024-01-04
+> Midjourney 推出了 V6，细节惊人。但还像是一个可有可无的玩具。我在去年 12 月就停掉了会员。
 
 首先，让我们来说一下 Midjourney。总的来说，V5 版本的效果还是不错的。但是，我不是很喜欢在 Discord 上使用它。总感觉它就像一个玩具，用来做生产力工具还是有些麻烦。
 ![midjourney-website](https://txx-1257178398.cos.ap-shanghai.myqcloud.com/uPic/W8VOcb.jpg)
