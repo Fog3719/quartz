@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - Software
 draft: false
 date: 2024-01-04 10:13:53
 date modified: 2024-01-04 10:25:08

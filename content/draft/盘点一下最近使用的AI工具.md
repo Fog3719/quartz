@@ -8,7 +8,7 @@ tags: []
 shanghai: ⛅️  🌡️+17°C 🌬️↘19km/h
 number headings: auto, first-level 1, max 6, _.1.1
 title: 盘点一下最近使用的AI工具
-date modified: 2024-01-04 10:53:35
+date modified: 2024-01-04 04:47:56
 published: "false"
 ---
 
@@ -42,11 +42,5 @@ published: "false"
 	- Bing
 	- ChatGPT
 - 语音转文本
-	-
-
-# Reference
-
-up:: [[Stable Diffusion与Midjourney]]
-same::
 
 [^1]: https://github.com/jesselau76/GPT-Prompts/tree/main/midjourney-prompt-generator
