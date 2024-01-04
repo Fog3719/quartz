@@ -9,7 +9,7 @@ number headings: auto, first-level 1, max 6, _.1.1
 id: 20231229103422-f145cbaa-f2ed-4674-9a78-70b3cc8ffaf8
 date modified: 2024-01-04 09:18:36
 date: 2023-12-29 10:33:57
-up: "[[常用软件分享]]"
+up: "[[数字生活]]"
 ---
 
 ## 1 Docker 安装一直报 Redis:6379 错误？

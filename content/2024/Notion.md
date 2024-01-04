@@ -1,9 +1,9 @@
 ---
 tags: 
-draft: true
+draft: false
 date: 2024-01-04 09:03:08
 date modified: 2024-01-04 09:53:43
-up: "[[常用软件分享]]"
+up: "[[数字生活]]"
 ---
 
 ![[Screenshot2024001004009049036.png]]

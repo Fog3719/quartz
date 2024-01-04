@@ -36,5 +36,5 @@ $fullPageWidth: 1200px;
 
 # Reference
 
-up:: [[常用软件分享]]
+up:: [[数字生活]]
 same::

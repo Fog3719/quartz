@@ -1,10 +1,10 @@
 ---
 tags:
   - Software
-draft: true
+draft: false
 date: 2024-01-03 09:19:34
 date modified: 2024-01-04 09:54:04
-up: "[[常用软件分享]]"
+up: "[[数字生活]]"
 ---
 
 最好看的的 markdown 编辑器没有之一，简单易用，所见即所得 markdown 编辑软件。还有独特的专注模式。

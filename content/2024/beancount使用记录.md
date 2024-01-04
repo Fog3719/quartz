@@ -173,7 +173,7 @@ In addition, a grey dot will be shown if the account has not been updated in a w
 
 # Reference
 
-up:: [[常用软件分享]]  [[2024]]
+up:: [[数字生活]]  [[2024]]
 
 [^1]: [Beancount 语言语法 - Beancount 文档](https://beancount.github.io/docs/beancount_language_syntax.html#the-tag-stack)
 [^2]: https://github.com/beancount/fava/issues/908#issuecomment-489360641
