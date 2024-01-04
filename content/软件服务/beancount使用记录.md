@@ -11,10 +11,22 @@ shanghai: ☀️ 🌡️+4°C 🌬️↘22km/h
 note_type: 
 links: 
 date: 2023-12-01 08:52:00
-date modified: 2024-01-04 11:15:37
+date modified: 2024-01-04 11:28:36
 banner: 
 id: 20231201085304-64470873-0197-40b4-a223-85d062d72059
 ---
+
+## 为什么使用 beancount 记账？
+
+### 其他软件不能满足需求
+
+一开始我也尝试了一些其他的软件比如 [MoneyManager Ex -](https://moneymanagerex.org/)，再尝试了几天之后，我发现他再记录账户之间的转账和支出时比较麻烦。一笔转账要分别去两个账户记录一次。
+再后来我就看到了复式记账这个方式，感觉更符合我的需求。一开始选择的复式记账软件也不是 beancount，而是 [Free Accounting Software | GnuCash](https://www.gnucash.org/)。
+他的软件 UI 让我有点时光穿梭的感觉，用了很短的时间我就放弃了。软件的 UI 交互逻辑都很难以理解。
+
+### 数据格式不通用
+
+每一个记账软件都用了不同的数据格式，在导入外部数据时，只有 [MoneyManager Ex -](https://moneymanagerex.org/) 还算比较好用。
 
 ## 1 账户格式问题
 
