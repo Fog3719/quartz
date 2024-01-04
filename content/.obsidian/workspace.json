@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖥️ Cyber Garden 🏝️/Midjourney 和 SD 的使用心得分享.md",
+                "file": "index.md",
                 "mode": "preview",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖥️ Cyber Garden 🏝️/Midjourney 和 SD 的使用心得分享.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖥️ Cyber Garden 🏝️/Midjourney 和 SD 的使用心得分享.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖥️ Cyber Garden 🏝️/Midjourney 和 SD 的使用心得分享.md"
+                "file": "index.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🖥️ Cyber Garden 🏝️/Midjourney 和 SD 的使用心得分享.md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,10 +222,11 @@
   },
   "active": "cbfec06b9f1e18a2",
   "lastOpenFiles": [
+    "🙊Meanderings🕸️/🙊Meanderings🕸️.md",
     "🖥️ Cyber Garden 🏝️/🖥️ Cyber Garden 🏝️.md",
+    "🙊Meanderings🕸️/attachments/0_3.webp",
     "🖥️ Cyber Garden 🏝️/Midjourney 和 SD 的使用心得分享.md",
     "🍌Banana Brainwaves🧠/🍌Banana Brainwaves🧠.md",
-    "🙊Meanderings🕸️/🙊Meanderings🕸️.md",
     "index.md",
     "🍌Banana Brainwaves🧠/Altered Carbon.md",
     "🖥️ Cyber Garden 🏝️/Bug-Out Bag.md",
@@ -249,7 +250,6 @@
     "draft",
     "🖥️ Cyber Garden 🏝️/Notion.md",
     "🖥️ Cyber Garden 🏝️/Obsidian.md",
-    "🖥️ Cyber Garden 🏝️/Paperless-ngx使用问题记录.md",
     "🖥️ Cyber Garden 🏝️",
     "🖥️ Cyber Garden 🏝️/attachments/Screenshot2024001004010015044.png",
     "🖥️ Cyber Garden 🏝️/attachments/Screenshot2024001004009050046.png",
