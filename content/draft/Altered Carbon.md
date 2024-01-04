@@ -3,6 +3,7 @@ draft: true
 title: Altered Carbon
 date: 2020-03-07 10:04:06
 tags:
+  - draft
 date modified: 2024-01-04 10:53:47
 ---
 

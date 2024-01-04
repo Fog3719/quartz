@@ -5,6 +5,7 @@ aliases:
   - 盘点一下最近折腾过的AI服务&工具
 date: 2023-06-15 10:06:00
 tags:
+  - draft
 shanghai: ⛅️  🌡️+17°C 🌬️↘19km/h
 number headings: auto, first-level 1, max 6, _.1.1
 title: 盘点一下最近使用的AI工具

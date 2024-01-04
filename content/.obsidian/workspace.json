@@ -39,14 +39,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软件服务/beancount使用记录.md",
+                "file": "draft/2020年终回顾.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软件服务/🖥️ 数字生活 💽.md",
+                "file": "draft/2020年终回顾.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软件服务/🖥️ 数字生活 💽.md",
+                "file": "draft/2020年终回顾.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件服务/🖥️ 数字生活 💽.md"
+                "file": "draft/2020年终回顾.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "软件服务/🖥️ 数字生活 💽.md",
+                "file": "draft/2020年终回顾.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,35 +231,36 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "cbfec06b9f1e18a2",
+  "active": "737bb749aa6d8599",
   "lastOpenFiles": [
-    "index.md",
+    "日常所思/复工的第三天.md",
+    "draft/2020年终回顾.md",
+    "日常所思/2020年复工的第一周.md",
+    "draft/盘点一下最近使用的AI工具.md",
+    "draft/上海电影节三年.md",
+    "draft/社会羞辱.md",
+    "日常所思/新冠肺炎下的漫长春节.md",
+    "draft/Altered Carbon.md",
+    "日常所思/Bug-Out Bag.md",
+    "日常所思/Midjourney 和 SD 的使用心得分享.md",
+    "draft/2020年软件产品消费记录.md",
+    "draft",
+    "软件服务/🖥️ 数字生活 💽.md",
     "软件服务/beancount使用记录.md",
+    "软件服务/Notion.md",
+    "软件服务/Obsidian.md",
+    "软件服务/Paperless-ngx使用问题记录.md",
+    "软件服务/Quartz 4.0 使用记录.md",
+    "软件服务/Raycast.md",
+    "index.md",
     "软件服务/uPic.md",
     "软件服务/Typora.md",
     "软件服务/Spotless.md",
     "软件服务/Rocket Typist.md",
-    "软件服务/Raycast.md",
-    "软件服务/Quartz 4.0 使用记录.md",
-    "软件服务/Paperless-ngx使用问题记录.md",
-    "软件服务/Obsidian.md",
-    "软件服务/Notion.md",
-    "软件服务/🖥️ 数字生活 💽.md",
     "日常所思/2020.md",
     "2024/数字生活.md",
     "软件服务",
-    "日常所思/2020年复工的第一周.md",
-    "日常所思/2020年软件产品消费记录.md",
-    "日常所思/2020年终回顾.md",
-    "日常所思/复工的第三天.md",
-    "日常所思/上海电影节三年.md",
-    "日常所思/社会羞辱.md",
-    "日常所思/新冠肺炎下的漫长春节.md",
-    "日常所思/Altered Carbon.md",
-    "日常所思/Bug-Out Bag.md",
     "日常所思/上海解封后的第120天.md",
-    "日常所思/盘点一下最近使用的AI工具.md",
-    "日常所思/Midjourney 和 SD 的使用心得分享.md",
     "软件服务/attachments/Screenshot2024001004010015044.png",
     "软件服务/attachments/Screenshot2024001004009050046.png",
     "软件服务/attachments/Screenshot2024001004009049036.png",
