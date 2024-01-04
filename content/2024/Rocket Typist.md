@@ -1,8 +1,10 @@
 ---
-tags: 
+tags:
+  - Software
 draft: true
 date: 2024-01-03 09:18:09
 date modified: 2024-01-03 09:18:40
+up: "[[常用软件分享]]"
 ---
 
 [Rocket typist](https://witt-software.com/rockettypist/)

@@ -3,13 +3,13 @@ draft: false
 aliases:
   - Reference
   - Paperless-ngx 使用问题记录
-  - paperless-ngx使用问题记录
 tags:
   - Software
 number headings: auto, first-level 1, max 6, _.1.1
 id: 20231229103422-f145cbaa-f2ed-4674-9a78-70b3cc8ffaf8
-date modified: 2024-01-03 02:06:08
+date modified: 2024-01-04 09:18:36
 date: 2023-12-29 10:33:57
+up: "[[常用软件分享]]"
 ---
 
 ## 1 Docker 安装一直报 Redis:6379 错误？
@@ -55,10 +55,5 @@ PAPERLESS_REDIS = `redis://:<password>@<host>:<port>`
 
 官方文档其实写的很清晰，基本大部分遇到的问题都可以通过文档来解决。
 https://docs.paperless-ngx.com/configuration/#PAPERLESS_LOGOUT_REDIRECT_URL
-
-# Reference
-
-up:: [[常用软件分享]] [[2024]]
-same::
 
 [^1]: https://zhuanlan.zhihu.com/p/609267375
