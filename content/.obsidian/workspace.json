@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软件服务/beancount使用记录.md",
+                "file": "软件服务/数字生活.md",
                 "mode": "preview",
                 "source": true
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软件服务/beancount使用记录.md",
+                "file": "软件服务/数字生活.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软件服务/beancount使用记录.md",
+                "file": "软件服务/数字生活.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件服务/beancount使用记录.md"
+                "file": "软件服务/数字生活.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "ee95cb064344e710",
@@ -173,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "软件服务/beancount使用记录.md",
+                "file": "软件服务/数字生活.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,6 +221,11 @@
   },
   "active": "737bb749aa6d8599",
   "lastOpenFiles": [
+    "软件服务/Paperless-ngx使用问题记录.md",
+    "软件服务/数字生活.md",
+    "index.md",
+    "软件服务/Notion.md",
+    "软件服务/beancount使用记录.md",
     "2020/2020.md",
     "2024/数字生活.md",
     "软件服务",
@@ -236,8 +241,6 @@
     "2022/上海解封后的第120天.md",
     "2023/盘点一下最近使用的AI工具.md",
     "2023/Midjourney 和 SD 的使用心得分享.md",
-    "index.md",
-    "软件服务/Notion.md",
     "软件服务/Obsidian.md",
     "软件服务/Quartz 4.0 使用记录.md",
     "软件服务/Raycast.md",
@@ -245,13 +248,10 @@
     "软件服务/Spotless.md",
     "软件服务/Typora.md",
     "软件服务/uPic.md",
-    "软件服务/beancount使用记录.md",
     "软件服务/attachments/Screenshot2024001004010015044.png",
-    "2024/Textexpander.md",
     "软件服务/attachments/Screenshot2024001004009050046.png",
     "软件服务/attachments/Screenshot2024001004009049036.png",
     "软件服务/attachments",
-    "软件服务/paperless-ngx使用问题记录.md",
     "2024/Untitled",
     "2020/attachments/Pasted image 20240103103302.png",
     "2020/attachments",

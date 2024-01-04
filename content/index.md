@@ -3,7 +3,7 @@ tags: [Software]
 draft: false
 title: Welcome 🐒
 date: 2024-01-03 10:26:27
-date modified: 2024-01-04 10:52:39
+date modified: 2024-01-04 01:18:38
 ---
 
 欢迎来到我的 Blog，这是一个我用来存储生活中所得到的笔记、想法、见解以及它们之间的联系的空间。
@@ -12,4 +12,5 @@ date modified: 2024-01-04 10:52:39
 
 最终汇聚成一个 Blog（我还是习惯使用 Blog 而不是数字花园），你可以探索我感兴趣的各种主题，并了解它们之间的关系。
 
-- #Software 
+- #Software
+- [[数字生活]]
