@@ -15,10 +15,22 @@
               "type": "markdown",
               "state": {
                 "file": "index.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "cbfec06b9f1e18a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "软件服务/🖥️ 数字生活 💽.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -27,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软件服务/🖥️ 数字生活 💽.md",
+                "file": "软件服务/beancount使用记录.md",
                 "mode": "preview",
                 "source": true
               }
@@ -219,14 +231,21 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "737bb749aa6d8599",
+  "active": "cbfec06b9f1e18a2",
   "lastOpenFiles": [
     "index.md",
+    "软件服务/beancount使用记录.md",
+    "软件服务/uPic.md",
+    "软件服务/Typora.md",
+    "软件服务/Spotless.md",
+    "软件服务/Rocket Typist.md",
+    "软件服务/Raycast.md",
+    "软件服务/Quartz 4.0 使用记录.md",
+    "软件服务/Paperless-ngx使用问题记录.md",
+    "软件服务/Obsidian.md",
+    "软件服务/Notion.md",
     "软件服务/🖥️ 数字生活 💽.md",
     "日常所思/2020.md",
-    "软件服务/beancount使用记录.md",
-    "软件服务/Paperless-ngx使用问题记录.md",
-    "软件服务/Notion.md",
     "2024/数字生活.md",
     "软件服务",
     "日常所思/2020年复工的第一周.md",
@@ -241,13 +260,6 @@
     "日常所思/上海解封后的第120天.md",
     "日常所思/盘点一下最近使用的AI工具.md",
     "日常所思/Midjourney 和 SD 的使用心得分享.md",
-    "软件服务/Obsidian.md",
-    "软件服务/Quartz 4.0 使用记录.md",
-    "软件服务/Raycast.md",
-    "软件服务/Rocket Typist.md",
-    "软件服务/Spotless.md",
-    "软件服务/Typora.md",
-    "软件服务/uPic.md",
     "软件服务/attachments/Screenshot2024001004010015044.png",
     "软件服务/attachments/Screenshot2024001004009050046.png",
     "软件服务/attachments/Screenshot2024001004009049036.png",
