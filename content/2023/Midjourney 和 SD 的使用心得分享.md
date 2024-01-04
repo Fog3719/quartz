@@ -1,10 +1,8 @@
 ---
 draft: false
 tags:
-  - Midjourney
-  - StableDiffusion
-date: 2023-04-15 12:42
-date modified: 2023-04-17 11:02
+date: 2023-04-15 12:42:00
+date modified: 2024-01-04 10:53:30
 title: Midjourney 和 SD 的使用心得分享
 ---
 

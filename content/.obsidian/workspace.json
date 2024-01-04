@@ -27,9 +27,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "2020/2020.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             }
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "2020/2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "2020/2020.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "2020/2020.md"
               }
             }
           },
@@ -160,7 +160,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "ee95cb064344e710",
@@ -172,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "2020/2020.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,6 +221,19 @@
   },
   "active": "737bb749aa6d8599",
   "lastOpenFiles": [
+    "2020/2020年复工的第一周.md",
+    "2020/2020年软件产品消费记录.md",
+    "2020/2020年终回顾.md",
+    "2020/复工的第三天.md",
+    "2020/上海电影节三年.md",
+    "2020/社会羞辱.md",
+    "2020/新冠肺炎下的漫长春节.md",
+    "2020/Altered Carbon.md",
+    "2020/Bug-Out Bag.md",
+    "2022/上海解封后的第120天.md",
+    "2023/盘点一下最近使用的AI工具.md",
+    "2023/Midjourney 和 SD 的使用心得分享.md",
+    "index.md",
     "2024/Notion.md",
     "2024/Obsidian.md",
     "2024/Quartz 4.0 使用记录.md",
@@ -232,24 +246,12 @@
     "2024/数字生活.md",
     "2024/attachments/Screenshot2024001004010015044.png",
     "2024/Textexpander.md",
-    "index.md",
-    "2020/2020年复工的第一周.md",
-    "2020/复工的第三天.md",
     "2024/attachments/Screenshot2024001004009050046.png",
     "2024/attachments/Screenshot2024001004009049036.png",
     "2024/attachments",
     "2024/paperless-ngx使用问题记录.md",
     "2024/software 使用记录.md",
-    "2024/Software 使用记录.md",
     "2024/Untitled",
-    "2020/2020.md",
-    "2020/Bug-Out Bag.md",
-    "2020/Altered Carbon.md",
-    "2020/新冠肺炎下的漫长春节.md",
-    "2020/社会羞辱.md",
-    "2020/上海电影节三年.md",
-    "2020/2020年终回顾.md",
-    "2020/2020年软件产品消费记录.md",
     "2020/attachments/Pasted image 20240103103302.png",
     "2020/attachments",
     "2020/未命名",
