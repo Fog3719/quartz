@@ -2,9 +2,9 @@
 draft: true
 title: Altered Carbon
 date: 2020-03-07 10:04:06
-tags:
-  - draft
+tags: 
 date modified: 2024-01-04 10:53:47
+up: "[[🍌Banana Brainwaves🧠]]"
 ---
 
 ## [副本season2](https://movie.douban.com/subject/30284917/)
@@ -51,7 +51,6 @@ date modified: 2024-01-04 10:53:47
 
 我在想我一个普通的中年男性能做些什么呢？时刻警惕自己男性凝视的视角算一个吧。
 
-up:: [[2020]]
 
 [^1]: http://news.bbc.co.uk/chinese/simp/hi/newsid_3230000/newsid_3233300/3233368.stm
 [^2]: https://www.thebeijinger.com/forum/2011/05/07/wtf

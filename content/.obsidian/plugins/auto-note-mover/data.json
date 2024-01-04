@@ -5,11 +5,18 @@
   "folder_tag_pattern": [
     {
       "folder": "draft",
-      "tag": "#draft",
+      "tag": "",
+      "frontmatterProperty": "published: false",
+      "pattern": ""
+    },
+    {
+      "folder": "Cyber Garden",
+      "tag": "#Software",
+      "frontmatterProperty": "",
       "pattern": ""
     }
   ],
-  "use_regex_to_check_for_excluded_folder": false,
+  "use_regex_to_check_for_excluded_folder": true,
   "excluded_folder": [
     {
       "folder": ""
