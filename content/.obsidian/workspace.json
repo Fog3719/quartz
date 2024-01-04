@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软件服务/数字生活.md",
+                "file": "软件服务/🖥️ 数字生活 💽.md",
                 "mode": "preview",
                 "source": true
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软件服务/数字生活.md",
+                "file": "软件服务/🖥️ 数字生活 💽.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软件服务/数字生活.md",
+                "file": "软件服务/🖥️ 数字生活 💽.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件服务/数字生活.md"
+                "file": "软件服务/🖥️ 数字生活 💽.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "软件服务/数字生活.md",
+                "file": "软件服务/🖥️ 数字生活 💽.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,14 +219,14 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "f26263c8973a186f",
+  "active": "737bb749aa6d8599",
   "lastOpenFiles": [
-    "软件服务/beancount使用记录.md",
-    "软件服务/数字生活.md",
-    "软件服务/Paperless-ngx使用问题记录.md",
     "index.md",
-    "软件服务/Notion.md",
+    "软件服务/🖥️ 数字生活 💽.md",
     "日常所思/2020.md",
+    "软件服务/beancount使用记录.md",
+    "软件服务/Paperless-ngx使用问题记录.md",
+    "软件服务/Notion.md",
     "2024/数字生活.md",
     "软件服务",
     "日常所思/2020年复工的第一周.md",
