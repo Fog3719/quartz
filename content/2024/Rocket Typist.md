@@ -8,7 +8,7 @@ up: "[[常用软件分享]]"
 ---
 
 > [!TIP] 2024-01-04 10:08 
-> 已经换成了Raycast了，免费，够用。
+> 已经换成了[[Raycast]]了，免费，够用。
 
 [Rocket typist](https://witt-software.com/rockettypist/)
 
