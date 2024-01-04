@@ -9,7 +9,7 @@ tags:
   - Software
 shanghai: ☀️ 🌡️+4°C 🌬️↘22km/h
 date: 2023-12-01 08:52:00
-date modified: 2024-01-04 11:47:33
+date modified: 2024-01-04 10:16:26
 id: 20231201085304-64470873-0197-40b4-a223-85d062d72059
 up: "[[🖥️ Cyber Garden 🏝️]]"
 ---
@@ -191,9 +191,21 @@ In addition, a grey dot will be shown if the account has not been updated in a w
 
 [LaunchPlatform/beancount-black: Opinionated code formatter, just like Python's black code formatter but for Beancount (github.com)](https://github.com/LaunchPlatform/beancount-black)
 
-## 18 其他插件
+## 18 其他用法
 
-还没有尝试其他的插件。
+### 18.1 记录全家会员卡消费优惠
+
+之前办了一张全家的会员卡，买东西可以打 8.8 折。基本上每一次结账直观的感觉就是省了 1~2 块钱。我就想知道这个会员卡一共省了多少钱。今天结账的时候想了想似乎也并不困难。
+
+```python
+2020-11-11 * "FamilyMart" ""
+	Expenses:Workmeal  15.66/0.88 cny
+	Income:Coupons   
+	Liabilities:CreditCard:CMB  -15.66 CNY
+```
+
+但是这样记录会使 `Expenses` 的支出不准确，最后可能还要使用 `pad` 把 `Income:Coupons`
+积累的额度一次性的减掉，到月底对账的时候才准确。
 
 [^1]: [Beancount 语言语法 - Beancount 文档](https://beancount.github.io/docs/beancount_language_syntax.html#the-tag-stack)
 [^2]: https://github.com/beancount/fava/issues/908#issuecomment-489360641
