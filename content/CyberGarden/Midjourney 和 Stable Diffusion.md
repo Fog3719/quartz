@@ -2,9 +2,9 @@
 draft: false
 tags: 
 date: 2023-04-15 12:42:00
-date modified: 2024-01-04 03:47:13
 title: Midjourney 和 SD 的使用心得分享
 up: "[[🖥️ Cyber Garden 🏝️]]"
+updated: 2024-01-05 09:52:43
 ---
 
 > [!tip] 2024-01-04

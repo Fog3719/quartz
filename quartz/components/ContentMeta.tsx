@@ -12,6 +12,9 @@ export default (() => {
       if (fileData.dates) {
         segments.push(formatDate(getDate(cfg, fileData)!))
       }
+      if (fileData.dates && fileData.dates.modified) {
+        segments.push(`Last modified: ${formatDate(fileData.dates.modified)}`)
+      }
 
       segments.push(timeTaken)
       return <p class={`content-meta ${displayClass ?? ""}`}>{segments.join(", ")}</p>

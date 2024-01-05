@@ -48,7 +48,7 @@
       "date-created-key": "date",
       "force-retention-of-create-value": true,
       "date-modified": true,
-      "date-modified-key": "date modified",
+      "date-modified-key": "updated",
       "format": "YYYY-MM-DD hh:mm:ss"
     },
     "yaml-title": {
@@ -59,7 +59,7 @@
     "yaml-title-alias": {
       "enabled": true,
       "preserve-existing-alias-section-style": true,
-      "keep-alias-that-matches-the-filename": false,
+      "keep-alias-that-matches-the-filename": true,
       "use-yaml-key-to-keep-track-of-old-filename-or-heading": false
     },
     "capitalize-headings": {

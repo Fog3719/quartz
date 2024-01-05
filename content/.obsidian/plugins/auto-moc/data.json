@@ -1,0 +1,9 @@
+{
+  "showRibbonButton": true,
+  "linkToHeading": false,
+  "importAsList": "UNORDERED",
+  "orderedListSeparator": ".",
+  "linkingMentionsNotice": true,
+  "noNewLinksNotice": true,
+  "newLinksAddedNotice": false
+}
