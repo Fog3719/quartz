@@ -4,6 +4,7 @@ tags:
 draft: false
 date: 2024-01-04 01:16:19
 date modified: 2024-01-04 04:28:53
+up: "[[index]]"
 ---
 
 ![oldcomputer](https://pic.237484.xyz/uPic/old%20computer.webp)
