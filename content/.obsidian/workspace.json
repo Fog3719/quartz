@@ -27,9 +27,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖥️ Cyber Garden 🏝️/Paperless-ngx使用问题记录.md",
+                "file": "draft/Quartz 4.0 使用记录.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             }
           },
@@ -39,26 +39,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🙊Meanderings🕸️/复工的第三天.md",
+                "file": "🖥️ Cyber Garden 🏝️/Midjourney 和 SD 的使用心得分享.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbb7ef4ca6dabfe5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "draft/皮诺切特.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🙊Meanderings🕸️/复工的第三天.md",
+                "file": "draft/Quartz 4.0 使用记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🙊Meanderings🕸️/复工的第三天.md",
+                "file": "draft/Quartz 4.0 使用记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🙊Meanderings🕸️/复工的第三天.md"
+                "file": "draft/Quartz 4.0 使用记录.md"
               }
             }
           },
@@ -196,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🙊Meanderings🕸️/复工的第三天.md",
+                "file": "draft/Quartz 4.0 使用记录.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,7 +217,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,33 +232,35 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "87f20989c255fa5c",
+  "active": "dfbeefee60f61c86",
   "lastOpenFiles": [
+    "🖥️ Cyber Garden 🏝️/beancount使用记录.md",
+    "draft/盘点一下最近使用的AI工具.md",
+    "draft/社会羞辱.md",
+    "draft/Quartz 4.0 使用记录.md",
+    "draft/attachments/Pasted image 20240105102653.png",
+    "🖥️ Cyber Garden 🏝️/Paperless-ngx使用问题记录.md",
+    "🖥️ Cyber Garden 🏝️/Midjourney 和 SD 的使用心得分享.md",
+    "draft/皮诺切特.md",
+    "🙊Meanderings🕸️/2020年复工的第一周.md",
+    "🙊Meanderings🕸️/复工的第三天.md",
     "🙊Meanderings🕸️/上海解封后的第120天.md",
     "🙊Meanderings🕸️/新冠肺炎下的漫长春节.md",
-    "🖥️ Cyber Garden 🏝️/Paperless-ngx使用问题记录.md",
-    "draft/Quartz 4.0 使用记录.md",
     "draft/attachments/Screenshot2024001005009016054.png",
     "draft/attachments",
     "🙊Meanderings🕸️/🙊Meanderings🕸️.md",
-    "🙊Meanderings🕸️/2020年复工的第一周.md",
-    "🙊Meanderings🕸️/复工的第三天.md",
-    "🖥️ Cyber Garden 🏝️/beancount使用记录.md",
     "🖥️ Cyber Garden 🏝️/🖥️ Cyber Garden 🏝️.md",
     "🖥️ Cyber Garden 🏝️/uPic.md",
     "🍌Banana Brainwaves🧠/Bug_Out_Bag.md",
     "🍌Banana Brainwaves🧠/Altered Carbon.md",
     "🍌Banana Brainwaves🧠/🍌Banana Brainwaves🧠.md",
     "🍌Banana Brainwaves🧠/BugOutBag.md",
-    "🖥️ Cyber Garden 🏝️/Midjourney 和 SD 的使用心得分享.md",
     "🖥️ Cyber Garden 🏝️/Raycast.md",
     "🖥️ Cyber Garden 🏝️/Rocket Typist.md",
     "🖥️ Cyber Garden 🏝️/Spotless.md",
     "🖥️ Cyber Garden 🏝️/Typora.md",
     "🖥️ Cyber Garden 🏝️/Notion.md",
-    "draft/皮诺切特.md",
     "index.md",
-    "draft/盘点一下最近使用的AI工具.md",
     "draft/Obsidian.md",
     "templates",
     "🙊Meanderings🕸️/attachments/0_3.webp",
