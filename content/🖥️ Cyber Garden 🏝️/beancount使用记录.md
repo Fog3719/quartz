@@ -1,17 +1,14 @@
 ---
 draft: false
-aliases:
-  - Beancount 使用问题记录
-  - beancount
 number headings: auto, first-level 1, max 6, _.1.1
 created: 2023-12-01 08:52
 tags:
   - Software
 shanghai: ☀️ 🌡️+4°C 🌬️↘22km/h
 date: 2023-12-01 08:52:00
-date modified: 2024-01-04 10:16:26
 id: 20231201085304-64470873-0197-40b4-a223-85d062d72059
 up: "[[🖥️ Cyber Garden 🏝️]]"
+updated: 2024-01-05 10:52:00
 ---
 
 ## 1 为什么使用 beancount 记账？

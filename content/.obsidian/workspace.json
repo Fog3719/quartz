@@ -15,31 +15,19 @@
               "type": "markdown",
               "state": {
                 "file": "index.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "pinned": true
             }
           },
           {
-            "id": "dfbeefee60f61c86",
+            "id": "e5849209f219bb6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "draft/Quartz 4.0 使用记录.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "87f20989c255fa5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🖥️ Cyber Garden 🏝️/Midjourney 和 SD 的使用心得分享.md",
                 "mode": "source",
                 "source": false
               }
@@ -229,42 +217,43 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian42-brat:BRAT": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "auto-moc:AutoMOC": false
     }
   },
-  "active": "dfbeefee60f61c86",
+  "active": "e5849209f219bb6f",
   "lastOpenFiles": [
-    "🖥️ Cyber Garden 🏝️/beancount使用记录.md",
-    "draft/盘点一下最近使用的AI工具.md",
-    "draft/社会羞辱.md",
+    "index.md",
     "draft/Quartz 4.0 使用记录.md",
-    "draft/attachments/Pasted image 20240105102653.png",
-    "🖥️ Cyber Garden 🏝️/Paperless-ngx使用问题记录.md",
-    "🖥️ Cyber Garden 🏝️/Midjourney 和 SD 的使用心得分享.md",
-    "draft/皮诺切特.md",
+    "🖥️ Cyber Garden 🏝️/Midjourney 和 Stable Diffusion.md",
+    "🖥️ Cyber Garden 🏝️/🖥️ Cyber Garden 🏝️.md",
+    "🖥️ Cyber Garden 🏝️/Notion.md",
+    "🖥️ Cyber Garden 🏝️/uPic.md",
+    "🖥️ Cyber Garden 🏝️/Typora.md",
+    "🖥️ Cyber Garden 🏝️/Spotless.md",
+    "🖥️ Cyber Garden 🏝️/Raycast.md",
+    "🖥️ Cyber Garden 🏝️/Paperless-ngx使用记录.md",
+    "🖥️ Cyber Garden 🏝️/beancount使用记录.md",
     "🙊Meanderings🕸️/2020年复工的第一周.md",
     "🙊Meanderings🕸️/复工的第三天.md",
     "🙊Meanderings🕸️/上海解封后的第120天.md",
     "🙊Meanderings🕸️/新冠肺炎下的漫长春节.md",
+    "🍌Banana Brainwaves🧠/🍌Banana Brainwaves🧠.md",
+    "🍌Banana Brainwaves🧠/Altered Carbon.md",
+    "draft/上海电影节三年.md",
+    "🙊Meanderings🕸️/🙊Meanderings🕸️.md",
+    "draft/盘点一下最近使用的AI工具.md",
+    "draft/社会羞辱.md",
+    "draft/attachments/Pasted image 20240105102653.png",
+    "draft/皮诺切特.md",
     "draft/attachments/Screenshot2024001005009016054.png",
     "draft/attachments",
-    "🙊Meanderings🕸️/🙊Meanderings🕸️.md",
-    "🖥️ Cyber Garden 🏝️/🖥️ Cyber Garden 🏝️.md",
-    "🖥️ Cyber Garden 🏝️/uPic.md",
     "🍌Banana Brainwaves🧠/Bug_Out_Bag.md",
-    "🍌Banana Brainwaves🧠/Altered Carbon.md",
-    "🍌Banana Brainwaves🧠/🍌Banana Brainwaves🧠.md",
     "🍌Banana Brainwaves🧠/BugOutBag.md",
-    "🖥️ Cyber Garden 🏝️/Raycast.md",
     "🖥️ Cyber Garden 🏝️/Rocket Typist.md",
-    "🖥️ Cyber Garden 🏝️/Spotless.md",
-    "🖥️ Cyber Garden 🏝️/Typora.md",
-    "🖥️ Cyber Garden 🏝️/Notion.md",
-    "index.md",
     "draft/Obsidian.md",
     "templates",
     "🙊Meanderings🕸️/attachments/0_3.webp",
-    "draft/上海电影节三年.md",
     "🍌Banana Brainwaves🧠",
     "draft",
     "🖥️ Cyber Garden 🏝️",
