@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "166078bef78ba0da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Newspeak/💁WestKorea-Newspeak🗣.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Newspeak/💁WestKorea-Newspeak🗣.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Newspeak/💁WestKorea-Newspeak🗣.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Newspeak/💁WestKorea-Newspeak🗣.md"
               }
             }
           },
@@ -162,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "Newspeak/💁WestKorea-Newspeak🗣.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,26 +223,26 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "a2a8765e61f10d8f",
+  "active": "166078bef78ba0da",
   "lastOpenFiles": [
+    "index.md",
     "Meanderings/🙊Meanderings🕸️.md",
     "BananaBrainwaves/🍌Banana Brainwaves🧠.md",
     "Recipes/🍽Family Recipes🧑‍🍳.md",
     "Loanword/🌎Loanword🌏.md",
-    "Newwords/💁WestKorea-Newspeak🗣.md",
-    "Newwords/大白.md",
-    "Newwords/电子哨兵.md",
-    "Newwords/动态清零.md",
-    "Newwords/健康码.md",
-    "Newwords/局里局气.md",
-    "Newwords/社会面清零.md",
-    "index.md",
-    "Newwords/attachments/Pasted image 20240105222716.png",
-    "Newwords/attachments/电子哨兵.png",
-    "Newwords/attachments",
+    "Newspeak/💁WestKorea-Newspeak🗣.md",
+    "Newspeak/大白.md",
+    "Newspeak/电子哨兵.md",
+    "Newspeak/动态清零.md",
+    "Newspeak/健康码.md",
+    "Newspeak/局里局气.md",
+    "Newspeak/社会面清零.md",
+    "Newspeak/attachments/Pasted image 20240105222716.png",
+    "Newspeak/attachments/电子哨兵.png",
+    "Newspeak/attachments",
     "Loanword/chai&tea.md",
-    "Newwords/动态清零新闻合集.canvas",
-    "Newwords",
+    "Newspeak/动态清零新闻合集.canvas",
+    "Newspeak",
     "Loanword/仆街.md",
     "Loanword/哈斗.md",
     "Loanword/大亨.md",
