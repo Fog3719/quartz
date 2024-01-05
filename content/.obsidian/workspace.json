@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Newwords/WestKorea-Newspeak.md",
+                "file": "Newwords/💁WestKorea-Newspeak🗣.md",
                 "mode": "preview",
                 "source": true
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Newwords/电子哨兵.md",
+                "file": "Newwords/💁WestKorea-Newspeak🗣.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Newwords/电子哨兵.md",
+                "file": "Newwords/💁WestKorea-Newspeak🗣.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Newwords/电子哨兵.md",
+                "file": "Newwords/💁WestKorea-Newspeak🗣.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Newwords/电子哨兵.md"
+                "file": "Newwords/💁WestKorea-Newspeak🗣.md"
               }
             }
           },
@@ -235,7 +235,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Newwords/电子哨兵.md",
+                "file": "Newwords/💁WestKorea-Newspeak🗣.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -285,21 +285,24 @@
   },
   "active": "3b30fb6a37892403",
   "lastOpenFiles": [
-    "Newwords/WestKorea-Newspeak.md",
-    "Loanword/chai&tea.md",
-    "Newwords/社会面清零.md",
-    "Newwords/电子哨兵.md",
+    "index.md",
+    "Newwords/💁WestKorea-Newspeak🗣.md",
     "Newwords/大白.md",
-    "Newwords/健康码.md",
-    "Newwords/动态清零新闻合集.canvas",
-    "Newwords/局里局气.md",
+    "Newwords/电子哨兵.md",
     "Newwords/动态清零.md",
+    "Newwords/健康码.md",
+    "Newwords/局里局气.md",
+    "Newwords/attachments/Pasted image 20240105222716.png",
+    "Newwords/社会面清零.md",
+    "Newwords/attachments/电子哨兵.png",
+    "Newwords/attachments",
+    "Loanword/chai&tea.md",
+    "Newwords/动态清零新闻合集.canvas",
     "Newwords",
     "Loanword/仆街.md",
     "Loanword/哈斗.md",
     "Loanword/大亨.md",
     "Loanword/🌎Loanword🌏.md",
-    "index.md",
     "Recipes/🍽Family Recipes🧑‍🍳.md",
     "BananaBrainwaves/🍌Banana Brainwaves🧠.md",
     "Meanderings/🙊Meanderings🕸️.md",
@@ -316,7 +319,6 @@
     "Recipes/西红柿鸡蛋.md",
     "Recipes/罗宋汤.md",
     "Recipes/煎包.md",
-    "Recipes/包子.md",
     "Recipes/attachments",
     "Recipes",
     "Loanword",
@@ -328,9 +330,6 @@
     "draft/attachments",
     "templates",
     "Meanderings/attachments/0_3.webp",
-    "BananaBrainwaves",
-    "draft",
-    "CyberGarden/attachments/Screenshot2024001004010015044.png",
-    "CyberGarden/attachments/Screenshot2024001004009050046.png"
+    "BananaBrainwaves"
   ]
 }

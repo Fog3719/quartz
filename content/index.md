@@ -18,3 +18,4 @@ updated: 2024-01-05 10:56:59
 - [[🍌Banana Brainwaves🧠]]
 - [[🍽Family Recipes🧑‍🍳]]
 - [[🌎Loanword🌏]]
+-  [[💁WestKorea-Newspeak🗣]]
