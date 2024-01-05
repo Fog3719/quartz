@@ -1,7 +1,6 @@
 ---
 draft: false
 aliases:
-  - Reference
   - Paperless-ngx 使用问题记录
 tags:
   - Software
@@ -10,6 +9,7 @@ id: 20231229103422-f145cbaa-f2ed-4674-9a78-70b3cc8ffaf8
 date modified: 2024-01-04 05:08:39
 date: 2023-12-29 10:33:57
 up: "[[🖥️ Cyber Garden 🏝️]]"
+updated: 2024-01-05 09:40:37
 ---
 
 ## 1 Docker 安装一直报 Redis:6379 错误？
