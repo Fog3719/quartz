@@ -20,33 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "c2595330f5f31fb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Loanword/🌎Loanword🌏.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f72bffb0ad67809",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Loanword/大亨.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loanword/大亨.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loanword/大亨.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Loanword/大亨.md"
+                "file": "index.md"
               }
             }
           },
@@ -185,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Loanword/大亨.md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -218,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,15 +209,18 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "1f72bffb0ad67809",
+  "active": "a2a8765e61f10d8f",
   "lastOpenFiles": [
     "Loanword/哈斗.md",
+    "Loanword/泡芙.md",
+    "Loanword/🌎Loanword🌏.md",
+    "Loanword/attachments/哈斗.jpeg",
+    "Loanword/attachments",
+    "Loanword/大亨.md",
     "Loanword/仆街.md",
     "Loanword/chai&tea.md",
     "index.md",
-    "Loanword/大亨.md",
     "Recipes/🍽Family Recipes🧑‍🍳.md",
-    "Loanword/🌎Loanword🌏.md",
     "菜谱/🍽Family Recipes🧑‍🍳.md",
     "Recipes/attachments/Pasted image 20240105210133.png",
     "Recipes/attachments/Pasted image 20240105205539.png",
@@ -268,7 +247,6 @@
     "菜谱/attachments/Pasted image 20240105205539.png",
     "菜谱/attachments",
     "CyberGarden/🖥️ Cyber Garden 🏝️.md",
-    "CyberGarden/Notion.md",
     "draft/attachments/Pasted image 20240105102653.png",
     "draft/attachments/Screenshot2024001005009016054.png",
     "draft/attachments",
@@ -278,8 +256,6 @@
     "draft",
     "CyberGarden",
     "CyberGarden/attachments/Screenshot2024001004010015044.png",
-    "CyberGarden/attachments/Screenshot2024001004009050046.png",
-    "CyberGarden/attachments/Screenshot2024001004009049036.png",
-    "CyberGarden/attachments"
+    "CyberGarden/attachments/Screenshot2024001004009050046.png"
   ]
 }
