@@ -1,13 +1,9 @@
 ---
 draft: false
 aliases:
-  - 越南河粉 - 2022-10-23
-  - 越南河粉
   - Pho
-  - 河粉
 created: 2022-10-23 10:31
 tags:
-  - Food🍛
   - Recipes
 shanghai: ☀️   🌡️+64°F 🌬️↓9mph
 number headings: auto, first-level 1, max 6, _.1.1
@@ -16,12 +12,12 @@ links:
 banner_icon: 🍲
 date created: 2022-11-05 23:25
 date modified: 2023-02-20 16:28
-moc: Food
 date: 2023-05-22 05:13:11
-updated: 2024-01-05 05:29:39
+updated: 2024-01-05 08:58:51
+up: "[[🍽Family Recipes🧑‍🍳]]"
 ---
 
-# 越南河粉 - 2022-10-23
+![[Pasted image 20240105210133.png]]
 
 ## 1 必备食材
 
@@ -47,7 +43,3 @@ updated: 2024-01-05 05:29:39
 5. 最后撒上香菜、薄荷、罗勒。
 6. 吃得时候，把柠檬汁挤到碗里即可。
 
-# Reference
-
-up:: [[家庭菜谱]]
-same::
