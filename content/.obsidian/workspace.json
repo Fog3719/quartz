@@ -22,19 +22,31 @@
             }
           },
           {
-            "id": "834fec7267e9b98c",
+            "id": "c2595330f5f31fb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "菜谱/🍽Family Recipes🧑‍🍳.md",
+                "file": "Loanword/🌎Loanword🌏.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f72bffb0ad67809",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Loanword/大亨.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "菜谱/🍽Family Recipes🧑‍🍳.md",
+                "file": "Loanword/大亨.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "菜谱/🍽Family Recipes🧑‍🍳.md",
+                "file": "Loanword/大亨.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "菜谱/🍽Family Recipes🧑‍🍳.md"
+                "file": "Loanword/大亨.md"
               }
             }
           },
@@ -160,7 +172,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "ee95cb064344e710",
@@ -172,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "菜谱/🍽Family Recipes🧑‍🍳.md",
+                "file": "Loanword/大亨.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,8 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,13 +233,32 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "834fec7267e9b98c",
+  "active": "1f72bffb0ad67809",
   "lastOpenFiles": [
+    "Loanword/哈斗.md",
+    "Loanword/仆街.md",
+    "Loanword/chai&tea.md",
+    "index.md",
+    "Loanword/大亨.md",
+    "Recipes/🍽Family Recipes🧑‍🍳.md",
+    "Loanword/🌎Loanword🌏.md",
+    "菜谱/🍽Family Recipes🧑‍🍳.md",
+    "Recipes/attachments/Pasted image 20240105210133.png",
+    "Recipes/attachments/Pasted image 20240105205539.png",
+    "Recipes/青椒炒肉.md",
+    "Recipes/酱牛肉.md",
+    "Recipes/越南河粉Pho.md",
+    "Recipes/西红柿鸡蛋.md",
+    "Recipes/罗宋汤.md",
+    "Recipes/煎包.md",
+    "Recipes/包子.md",
+    "Recipes/三杯鸡.md",
+    "Recipes/attachments",
+    "Recipes",
+    "Loanword",
     "菜谱/三杯鸡.md",
     "菜谱/西红柿鸡蛋.md",
     "菜谱/越南河粉Pho.md",
-    "菜谱/🍽Family Recipes🧑‍🍳.md",
-    "index.md",
     "菜谱/青椒炒肉.md",
     "菜谱/罗宋汤.md",
     "菜谱/酱牛肉.md",
@@ -236,37 +267,19 @@
     "菜谱/attachments/Pasted image 20240105210133.png",
     "菜谱/attachments/Pasted image 20240105205539.png",
     "菜谱/attachments",
-    "🖥️ Cyber Garden 🏝️/🖥️ Cyber Garden 🏝️.md",
-    "🖥️ Cyber Garden 🏝️/Notion.md",
-    "draft/Quartz 4.0 使用记录.md",
-    "🖥️ Cyber Garden 🏝️/Midjourney 和 Stable Diffusion.md",
-    "🖥️ Cyber Garden 🏝️/uPic.md",
-    "🖥️ Cyber Garden 🏝️/Typora.md",
-    "🖥️ Cyber Garden 🏝️/Spotless.md",
-    "🖥️ Cyber Garden 🏝️/Raycast.md",
-    "🖥️ Cyber Garden 🏝️/Paperless-ngx使用记录.md",
-    "🖥️ Cyber Garden 🏝️/beancount使用记录.md",
-    "🙊Meanderings🕸️/2020年复工的第一周.md",
-    "🙊Meanderings🕸️/复工的第三天.md",
-    "🙊Meanderings🕸️/上海解封后的第120天.md",
-    "🙊Meanderings🕸️/新冠肺炎下的漫长春节.md",
-    "🍌Banana Brainwaves🧠/🍌Banana Brainwaves🧠.md",
+    "CyberGarden/🖥️ Cyber Garden 🏝️.md",
+    "CyberGarden/Notion.md",
     "draft/attachments/Pasted image 20240105102653.png",
     "draft/attachments/Screenshot2024001005009016054.png",
     "draft/attachments",
     "templates",
-    "🙊Meanderings🕸️/attachments/0_3.webp",
-    "🍌Banana Brainwaves🧠",
+    "Meanderings/attachments/0_3.webp",
+    "BananaBrainwaves",
     "draft",
-    "🖥️ Cyber Garden 🏝️",
-    "🖥️ Cyber Garden 🏝️/attachments/Screenshot2024001004010015044.png",
-    "🖥️ Cyber Garden 🏝️/attachments/Screenshot2024001004009050046.png",
-    "🖥️ Cyber Garden 🏝️/attachments/Screenshot2024001004009049036.png",
-    "🖥️ Cyber Garden 🏝️/attachments",
-    "2024/Untitled",
-    "🙊Meanderings🕸️/attachments/Pasted image 20240103103302.png",
-    "🙊Meanderings🕸️/attachments",
-    "2020/未命名",
-    "Pasted image 20240103103153.png"
+    "CyberGarden",
+    "CyberGarden/attachments/Screenshot2024001004010015044.png",
+    "CyberGarden/attachments/Screenshot2024001004009050046.png",
+    "CyberGarden/attachments/Screenshot2024001004009049036.png",
+    "CyberGarden/attachments"
   ]
 }
