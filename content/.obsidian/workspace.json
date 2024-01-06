@@ -27,8 +27,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Newspeak/💁WestKorea-Newspeak🗣.md",
-                "mode": "source",
+                "file": "index.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Newspeak/💁WestKorea-Newspeak🗣.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Newspeak/💁WestKorea-Newspeak🗣.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Newspeak/💁WestKorea-Newspeak🗣.md"
+                "file": "index.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Newspeak/💁WestKorea-Newspeak🗣.md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -225,12 +225,12 @@
   },
   "active": "166078bef78ba0da",
   "lastOpenFiles": [
+    "Newspeak/💁WestKorea-Newspeak🗣.md",
     "index.md",
     "Meanderings/🙊Meanderings🕸️.md",
     "BananaBrainwaves/🍌Banana Brainwaves🧠.md",
     "Recipes/🍽Family Recipes🧑‍🍳.md",
     "Loanword/🌎Loanword🌏.md",
-    "Newspeak/💁WestKorea-Newspeak🗣.md",
     "Newspeak/大白.md",
     "Newspeak/电子哨兵.md",
     "Newspeak/动态清零.md",
