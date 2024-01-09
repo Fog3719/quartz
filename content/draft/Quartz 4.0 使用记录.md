@@ -1,11 +1,13 @@
 ---
+aliases:
+  - Quartz 4.0
 tags: 
 draft: false
 date: 2024-01-03 11:01:08
 enableToc: true
 published: "false"
 up: "[[🖥️ Cyber Garden 🏝️]]"
-updated: 2024-01-05 11:30:25
+updated: 2024-01-09 05:23:26
 number headings: auto, first-level 1, max 6, _.1.1
 ---
 

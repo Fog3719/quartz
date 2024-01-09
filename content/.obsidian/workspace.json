@@ -32,9 +32,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cfc6b2455b6a845d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CyberGarden/🖥️ Cyber Garden 🏝️.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "292ccde7099a02e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "draft/Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2ff226ad822ac31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CyberGarden/Obsidian/Obsidian Plugin Awards 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1172c195f57b690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "draft/Quartz 4.0 使用记录.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -101,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "CyberGarden/Obsidian/Obsidian Plugin Awards 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "CyberGarden/Obsidian/Obsidian Plugin Awards 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "CyberGarden/Obsidian/Obsidian Plugin Awards 2023.md"
               }
             }
           },
@@ -175,7 +223,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "CyberGarden/Obsidian/Obsidian Plugin Awards 2023.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,21 +260,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
       "obsidian42-brat:BRAT": false,
       "auto-moc:AutoMOC": false,
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "166078bef78ba0da",
+  "active": "f2ff226ad822ac31",
   "lastOpenFiles": [
-    "Newspeak/💁WestKorea-Newspeak🗣.md",
+    "draft/Obsidian.md",
+    "CyberGarden/🖥️ Cyber Garden 🏝️.md",
+    "CyberGarden/Obsidian/Obsidian Plugin Awards 2023.md",
+    "draft/Quartz 4.0 使用记录.md",
+    "CyberGarden/Obsidian/Quartz4.0.md",
+    "CyberGarden/Obsidian/attachments/Screenshot2024-01-09 11.11.27.png",
+    "CyberGarden/Obsidian/attachments/Pasted image 20240109111613.png",
+    "CyberGarden/Obsidian/attachments/Pasted image 20240109100921.png",
+    "CyberGarden/Obsidian/attachments/Pasted image 20240109095002.png",
+    "CyberGarden/Obsidian/attachments/2023 year obsidian plugin awards-20240109120258581.webp",
+    "CyberGarden/Obsidian/attachments/190087315-8386feee-b861-4520-bb94-19051c7a46c4.gif",
+    "CyberGarden/Obsidian/attachments",
     "index.md",
+    "CyberGarden/Obsidian",
+    "Newspeak/💁WestKorea-Newspeak🗣.md",
     "Meanderings/🙊Meanderings🕸️.md",
     "BananaBrainwaves/🍌Banana Brainwaves🧠.md",
     "Recipes/🍽Family Recipes🧑‍🍳.md",
@@ -246,30 +307,18 @@
     "Loanword/仆街.md",
     "Loanword/哈斗.md",
     "Loanword/大亨.md",
-    "CyberGarden/🖥️ Cyber Garden 🏝️.md",
     "Loanword/泡芙.md",
     "Loanword/attachments/哈斗.jpeg",
     "Loanword/attachments",
     "菜谱/🍽Family Recipes🧑‍🍳.md",
     "Recipes/attachments/Pasted image 20240105210133.png",
-    "Recipes/attachments/Pasted image 20240105205539.png",
     "Recipes/青椒炒肉.md",
     "Recipes/酱牛肉.md",
     "Recipes/越南河粉Pho.md",
-    "Recipes/西红柿鸡蛋.md",
-    "Recipes/罗宋汤.md",
-    "Recipes/煎包.md",
     "Recipes/attachments",
     "Recipes",
     "Loanword",
-    "菜谱/attachments/Pasted image 20240105210133.png",
-    "菜谱/attachments/Pasted image 20240105205539.png",
     "菜谱/attachments",
-    "draft/attachments/Pasted image 20240105102653.png",
-    "draft/attachments/Screenshot2024001005009016054.png",
-    "draft/attachments",
-    "templates",
-    "Meanderings/attachments/0_3.webp",
-    "BananaBrainwaves"
+    "draft/attachments"
   ]
 }
