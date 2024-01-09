@@ -63,9 +63,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberGarden/Obsidian/Obsidian Plugin Awards 2023.md",
-                "mode": "source",
-                "source": false
+                "file": "draft/Obsidian.md",
+                "mode": "preview",
+                "source": true
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberGarden/Obsidian/Obsidian Plugin Awards 2023.md",
+                "file": "draft/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberGarden/Obsidian/Obsidian Plugin Awards 2023.md",
+                "file": "draft/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberGarden/Obsidian/Obsidian Plugin Awards 2023.md"
+                "file": "draft/Obsidian.md"
               }
             }
           },
@@ -223,7 +223,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CyberGarden/Obsidian/Obsidian Plugin Awards 2023.md",
+                "file": "draft/Obsidian.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -273,9 +273,11 @@
   },
   "active": "f2ff226ad822ac31",
   "lastOpenFiles": [
-    "draft/Obsidian.md",
-    "CyberGarden/🖥️ Cyber Garden 🏝️.md",
     "CyberGarden/Obsidian/Obsidian Plugin Awards 2023.md",
+    "CyberGarden/Obsidian/如何在Obsidian插入当天天气信息.md",
+    "CyberGarden/🖥️ Cyber Garden 🏝️.md",
+    "index.md",
+    "draft/Obsidian.md",
     "draft/Quartz 4.0 使用记录.md",
     "CyberGarden/Obsidian/Quartz4.0.md",
     "CyberGarden/Obsidian/attachments/Screenshot2024-01-09 11.11.27.png",
@@ -285,7 +287,6 @@
     "CyberGarden/Obsidian/attachments/2023 year obsidian plugin awards-20240109120258581.webp",
     "CyberGarden/Obsidian/attachments/190087315-8386feee-b861-4520-bb94-19051c7a46c4.gif",
     "CyberGarden/Obsidian/attachments",
-    "index.md",
     "CyberGarden/Obsidian",
     "Newspeak/💁WestKorea-Newspeak🗣.md",
     "Meanderings/🙊Meanderings🕸️.md",
@@ -314,7 +315,6 @@
     "Recipes/attachments/Pasted image 20240105210133.png",
     "Recipes/青椒炒肉.md",
     "Recipes/酱牛肉.md",
-    "Recipes/越南河粉Pho.md",
     "Recipes/attachments",
     "Recipes",
     "Loanword",

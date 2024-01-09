@@ -8,4 +8,5 @@ published: "false"
 ---
 
 ![[Screenshot2024001004009050046.png]]
--[[Obsidian Plugin Awards 2023]]
+- [[Obsidian Plugin Awards 2023]]
+- [[如何在Obsidian插入当天天气信息]]
