@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Meanderings/🙊Meanderings🕸️.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04ea942400232828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meanderings/冬季莫干山游记.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Meanderings/冬季莫干山游记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Meanderings/冬季莫干山游记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Meanderings/冬季莫干山游记.md"
               }
             }
           },
@@ -160,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "Meanderings/冬季莫干山游记.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -208,12 +222,15 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "f26263c8973a186f",
+  "active": "04ea942400232828",
   "lastOpenFiles": [
+    "Meanderings/复工的第三天.md",
+    "Meanderings/冬季莫干山游记.md",
+    "Meanderings/🙊Meanderings🕸️.md",
+    "index.md",
     "CyberGarden/🖥️ Cyber Garden 🏝️.md",
+    "CyberGarden/index.md",
     "CyberGarden/paperless-ngx使用问题记录.md",
-    "index.md",
-    "index.md",
     "draft/社会羞辱.md",
     "draft/盘点一下最近使用的AI工具.md",
     "draft/皮诺切特.md",
@@ -243,9 +260,6 @@
     "Newspeak/attachments/电子哨兵.png",
     "Newspeak/attachments/Pasted image 20240105222716.png",
     "Newspeak/💁WestKorea-Newspeak🗣.md",
-    "Newspeak/社会面清零.md",
-    "Newspeak/电子哨兵.md",
-    "Newspeak/局里局气.md",
     "Newspeak/动态清零新闻合集.canvas",
     "Newspeak/attachments",
     "Newspeak",
