@@ -1,0 +1,8 @@
+{
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./attachments",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": true,
+  "showLineNumber": true
+}

@@ -32,6 +32,9 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       if (fileData.dates) {
         segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
       }
+      if (fileData.dates && fileData.dates.modified) {
+        segments.push(`Last modified: ${formatDate(fileData.dates.modified)}`)
+      }
 
       // Display reading time if enabled
       if (options.showReadingTime) {
