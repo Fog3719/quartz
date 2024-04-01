@@ -1,7 +1,7 @@
 ---
 tags:
   - Software
-draft: false
+draft: true
 date: 2024-01-04 09:03:08
 date modified: 2024-01-04 09:53:43
 up: "[[🖥️ Cyber Garden 🏝️]]"

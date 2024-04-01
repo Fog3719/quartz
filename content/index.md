@@ -3,20 +3,44 @@ aliases:
   - index
 tags: 
 draft: false
-title: Welcome👋
+title: MonkeyHaven
 date: 2024-01-01 12:00:00
-updated: 2024-01-05 10:56:49
+updated: 2024-04-01 04:45:00
 ---
 
-欢迎来到我的 ~~Blog~~ ，这是一个我用来存储生活中所得到的笔记、想法、见解以及它们之间的联系的空间。
-
-内容涵盖了广泛的主题，包括对电影、书籍、展览和游戏等精神世界的反思和体会，数字世界中软件、工具和服务的使用分享，以及个人日常记录。
-
-最终我希望这些想法能聚沙成塔，当然它们目前都还是非常不成熟的想法，你可以探索我感兴趣的各种主题，并了解它们之间的关系。
-
 - [[🖥️ Cyber Garden 🏝️]]
+	- [[Midjourney 和 Stable Diffusion 使用体验]]
+	- [[Notion-在线笔记]]
+	- [[Paperless-ngx使用记录]]
+	- [[Raycast-mac 启动器]]
+	- [[Rocket Typist文本片段管理软件]]
+	- [[Spotless-自动化清理桌面文件]]
+	- [[Typora-Markdown编辑器]]
+	- [[beancount使用记录]]
+	- [[paperless-ngx使用问题记录]]
+	- [[uPic-图床上传]]
+	- [[Quartz 4.0 使用记录]]
+	- [[Obsidian]]
+	  - [[Obsidian Plugin Awards 2023]]
+	  - [[如何在Obsidian插入当天天气信息]]
+
 - [[🙊Meanderings🕸️]]
+	- [[上海解封后的第120天]]
+	- [[复工的第三天]]
+	- [[2020年复工的第一周]]
+	- [[新冠肺炎下的漫长春节]]
+	- [[冬季莫干山游记]]
 - [[🍌Banana Brainwaves🧠]]
+	- [[Bug_Out_Bag]]
+	- [[Altered Carbon]]
 - [[🍽Family Recipes🧑‍🍳]]
+	- [[三杯鸡]]
+	- [[包子]]
+	- [[煎包]]
+	- [[罗宋汤]]
+	- [[西红柿鸡蛋]]
+	- [[越南河粉Pho]]
+	- [[酱牛肉]]
+	- [[青椒炒肉]]
 - [[🌎Loanword🌏]]
 -  [[💁WestKorea-Newspeak🗣]]

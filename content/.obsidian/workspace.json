@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bbf8a8365b40e96a",
+        "id": "c3f3aef6de66496f",
         "type": "tabs",
         "children": [
           {
-            "id": "5c9b5c666156dd6a",
+            "id": "7520a01103336e68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meanderings/🙊Meanderings🕸️.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04ea942400232828",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meanderings/冬季莫干山游记.md",
-                "mode": "source",
+                "file": "index.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meanderings/冬季莫干山游记.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meanderings/冬季莫干山游记.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meanderings/冬季莫干山游记.md"
+                "file": "index.md"
               }
             }
           },
@@ -174,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Meanderings/冬季莫干山游记.md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,54 +208,54 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "04ea942400232828",
+  "active": "7520a01103336e68",
   "lastOpenFiles": [
+    "CyberGarden/Quartz 4.0 使用记录.md",
+    "index.md",
+    "Recipes/🍽Family Recipes🧑‍🍳.md",
+    "BananaBrainwaves/🍌Banana Brainwaves🧠.md",
+    "Meanderings/🙊Meanderings🕸️.md",
+    "CyberGarden/Notion-在线笔记.md",
+    "CyberGarden/Midjourney 和 Stable Diffusion 使用体验.md",
+    "CyberGarden/uPic.md",
+    "CyberGarden/uPic-图床上传.md",
+    "CyberGarden/Typora-Markdown编辑器.md",
+    "CyberGarden/Spotless-自动化清理桌面文件.md",
+    "CyberGarden/Raycast-mac 启动器.md",
+    "CyberGarden/Rocket Typist文本片段管理软件.md",
+    "CyberGarden/🖥️ Cyber Garden 🏝️.md",
+    "CyberGarden/Obsidian.md",
+    "draft/皮诺切特.md",
+    "CyberGarden/paperless-ngx使用问题记录.md",
+    "RandomMeanderings/🙊RandomMeanderings🕸️.md",
+    "Meanderings/attachments/Pasted image 20240103103302.png",
+    "Meanderings/attachments/0_3.webp",
+    "Meanderings/新冠肺炎下的漫长春节.md",
     "Meanderings/复工的第三天.md",
     "Meanderings/冬季莫干山游记.md",
-    "Meanderings/🙊Meanderings🕸️.md",
-    "index.md",
-    "CyberGarden/🖥️ Cyber Garden 🏝️.md",
+    "Meanderings/上海解封后的第120天.md",
+    "Meanderings/attachments",
+    "Meanderings/2020年复工的第一周.md",
+    "Meanderings",
+    "RandomMeanderings/冬季莫干山游记.md",
+    "RandomMeanderings/复工的第三天.md",
     "CyberGarden/index.md",
-    "CyberGarden/paperless-ngx使用问题记录.md",
-    "draft/社会羞辱.md",
-    "draft/盘点一下最近使用的AI工具.md",
-    "draft/皮诺切特.md",
-    "draft/上海电影节三年.md",
-    "draft/quartz 命令.md",
     "draft/attachments/Screenshot2024001005009016054.png",
     "draft/attachments/Pasted image 20240105102653.png",
     "draft/attachments",
-    "draft/Quartz 4.0 使用记录.md",
-    "draft/Obsidian.md",
-    "draft/2020年软件产品消费记录.md",
-    "draft/2020年终回顾.md",
     "draft",
     "Recipes/attachments/Pasted image 20240105210133.png",
     "Recipes/attachments/Pasted image 20240105205539.png",
-    "Recipes/🍽Family Recipes🧑‍🍳.md",
-    "Recipes/青椒炒肉.md",
-    "Recipes/酱牛肉.md",
-    "Recipes/越南河粉Pho.md",
-    "Recipes/西红柿鸡蛋.md",
-    "Recipes/罗宋汤.md",
-    "Recipes/煎包.md",
-    "Recipes/包子.md",
-    "Recipes/三杯鸡.md",
     "Recipes/attachments",
     "Recipes",
     "Newspeak/attachments/电子哨兵.png",
     "Newspeak/attachments/Pasted image 20240105222716.png",
-    "Newspeak/💁WestKorea-Newspeak🗣.md",
     "Newspeak/动态清零新闻合集.canvas",
     "Newspeak/attachments",
     "Newspeak",
-    "Meanderings/attachments/Pasted image 20240103103302.png",
-    "Meanderings/attachments/0_3.webp",
-    "Meanderings/attachments",
-    "Meanderings",
-    "Loanword/attachments/哈斗.jpeg",
-    "Loanword/attachments",
-    "Loanword",
-    "CyberGarden/attachments/Screenshot2024001004010015044.png"
+    "RandomMeanderings/attachments/Pasted image 20240103103302.png",
+    "RandomMeanderings/attachments/0_3.webp",
+    "RandomMeanderings/attachments",
+    "RandomMeanderings"
   ]
 }
