@@ -10,14 +10,21 @@ updated: 2024-01-09 05:25:02
 up: "[[Obsidian]]"
 ---
 
-Obsidian 官方公布了 2023 年社区投票选出的几个奖项 [^1]。主要包含：
-
+Obsidian 官方公布了 2023 年社区投票选出的几个奖项提名 [^1]。主要包含：
+> [!tip] 2024-04-01  更新
+> 投票结果已经出来了。[2023 年度宝石获奖者 - 黑曜石 (obsidian.md)](https://obsidian.md/blog/2023-goty-winners/)
 - Best new plugin
+	-  [Omnivore](https://github.com/omnivore-app/obsidian-omnivore)
 - Best new theme
+	-  [Border](https://github.com/Akifyss/obsidian-border)
 - Best plugin update
+	- [Omnisearch](https://github.com/scambier/obsidian-omnisearch)
 - Best tool
+	- [Quartz](https://quartz.jzhao.xyz/)
 - Best template
+	- [Dashboard++](https://github.com/TfTHacker/DashboardPlusPlus)
 - Best content
+	- [Nicole van der Hoeven](https://www.youtube.com/@nicolevdh)
 
 我主要把 2023 年新的插件都下载过来体验了一下，总体感觉一般。其他奖项内容感兴趣的可以去搜索看一下。
 
@@ -29,7 +36,7 @@ Obsidian 官方公布了 2023 年社区投票选出的几个奖项 [^1]。主要
  - [better-search-views](https://github.com/ivan-lednev/better-search-views)by ivan-lednev
 	 - ![[Pasted image 20240109095002.png]]
 	 - 增强搜索结果的视图展示，提供更多的上下文结构。对我的吸引力不大，我对现在的搜索结果列表没有太多的需求。更多的上下文固然很不错，但是也会让结果列表超长。也可能是我的笔记都是一些日记碎片，上下文关系不大。
- - [ChatCBT] (https://github.com/clairefro/obsidian-chat-cbt-plugin) by clairefro
+ -  [ChatCBT](https://github.com/clairefro/obsidian-chat-cbt-plugin) by clairefro
 	 - 借助 GPT，可以改善心理健康，前提是要写日记，记录下来今日发生的琐事。
 	 - 这个跟我之自己使用的 [[个人日记助手]] 一样，我坚持了大概有 2 个月就放弃了，对我的心理健康没什么帮助，还会在日记中插入一堆没意义的文本。
  - [Chem](https://github.com/Acylation/obsidian-chem) by Acylation
