@@ -1,10 +1,12 @@
 ---
+aliases: [Raycast]
 tags:
   - Software
 draft: false
 date: 2024-01-04 10:13:53
 date modified: 2024-01-04 10:25:08
 up: "[[🖥️ Cyber Garden 🏝️]]"
+updated: 2024-04-01 05:14:47
 ---
 
 ![[Screenshot2024001004010015044.png]]
@@ -17,5 +19,5 @@ up: "[[🖥️ Cyber Garden 🏝️]]"
 - memos 可以快速记录笔记的插件。
 - Remove paywall 查看付费墙后面的文章
 - clipboard history 查看剪贴簿历史记录
-- Snippet 快捷填充文本，取代 [[Rocket Typist]]
+- Snippet 快捷填充文本，取代 [[Rocket Typist文本片段管理软件]]
 - 计算器
