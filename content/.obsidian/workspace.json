@@ -11,8 +11,12 @@
             "id": "67139812230bef26",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "draft/家庭低成本coffee使用记录.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "draft/家庭低成本coffee使用记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "draft/家庭低成本coffee使用记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "draft/家庭低成本coffee使用记录.md"
+              }
             }
           },
           {
@@ -152,6 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "draft/家庭低成本coffee使用记录.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -201,36 +210,36 @@
   },
   "active": "67139812230bef26",
   "lastOpenFiles": [
+    "BananaBrainwaves/🍌Banana Brainwaves🧠.md",
+    "draft/家庭低成本coffee使用记录.md",
+    "BananaBrainwaves/Altered Carbon.md",
+    "CyberGarden/uPic-图床上传.md",
+    "CyberGarden/uPic.md",
+    "CyberGarden/Obsidian/如何在Obsidian插入当天天气信息.md",
+    "draft/Obsidian.md",
+    "draft/Quartz 4.0 使用记录.md",
+    "draft/quartz 命令.md",
+    "draft/2020年软件产品消费记录.md",
+    "draft/2020年终回顾.md",
+    "draft/盘点一下最近使用的AI工具.md",
+    "draft/皮诺切特.md",
+    "draft/社会羞辱.md",
+    "draft/上海电影节三年.md",
     "Recipes/🍽Family Recipes🧑‍🍳.md",
     "index.md",
     "Meanderings/漫长的春节.md",
     "Meanderings/冬季莫干山游记.md",
     "Meanderings/上海解封后的第120天.md",
     "Meanderings/复工的第三天.md",
-    "BananaBrainwaves/Altered Carbon.md",
     "BananaBrainwaves/Bug_Out_Bag.md",
-    "BananaBrainwaves/🍌Banana Brainwaves🧠.md",
     "CyberGarden/Notion-在线笔记.md",
-    "draft/Quartz 4.0 使用记录.md",
     "Meanderings/🙊Meanderings🕸️.md",
     "CyberGarden/Midjourney 和 Stable Diffusion 使用体验.md",
-    "CyberGarden/uPic.md",
-    "CyberGarden/uPic-图床上传.md",
     "CyberGarden/Typora-Markdown编辑器.md",
-    "CyberGarden/Spotless-自动化清理桌面文件.md",
-    "CyberGarden/Raycast-mac 启动器.md",
-    "CyberGarden/Rocket Typist文本片段管理软件.md",
-    "CyberGarden/🖥️ Cyber Garden 🏝️.md",
-    "draft/Obsidian.md",
-    "draft/皮诺切特.md",
-    "CyberGarden/paperless-ngx使用问题记录.md",
-    "RandomMeanderings/🙊RandomMeanderings🕸️.md",
     "Meanderings/attachments/Pasted image 20240103103302.png",
     "Meanderings/attachments/0_3.webp",
     "Meanderings/attachments",
-    "Meanderings/2020年复工的第一周.md",
     "Meanderings",
-    "RandomMeanderings/冬季莫干山游记.md",
     "draft/attachments/Screenshot2024001005009016054.png",
     "draft/attachments/Pasted image 20240105102653.png",
     "draft/attachments",
