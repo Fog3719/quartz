@@ -1,6 +1,7 @@
 ---
 draft: false
 aliases:
+  - 🍽Family Recipes🧑‍🍳
   - 家庭菜谱
 created: 2022-11-05 23:12
 tags:
@@ -8,7 +9,7 @@ tags:
 shanghai: ☀️   🌡️+14°C 🌬️↓15km/h
 banner_icon: ☀️
 date: 2024-01-05 08:51:06
-updated: 2024-01-05 09:18:24
+updated: 2024-06-26 09:35:14
 up: "[[index]]"
 ---
 
