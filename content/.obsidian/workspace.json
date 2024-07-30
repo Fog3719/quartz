@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1acd5ad65aabacdd",
+        "id": "24ddff004e319adb",
         "type": "tabs",
         "children": [
           {
-            "id": "67139812230bef26",
+            "id": "a25dd8449c8453e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "draft/家庭低成本coffee使用记录.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "draft/家庭低成本coffee使用记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "draft/家庭低成本coffee使用记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,29 +119,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "draft/家庭低成本coffee使用记录.md"
-              }
-            }
-          },
-          {
-            "id": "2f477df1afebff8e",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "eaf8ede43e3b208b",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
               "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "ee95cb064344e710",
@@ -160,7 +136,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "draft/家庭低成本coffee使用记录.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -197,24 +172,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
       "obsidian42-brat:BRAT": false,
       "auto-moc:AutoMOC": false,
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "67139812230bef26",
+  "active": "f26263c8973a186f",
   "lastOpenFiles": [
+    "CyberGarden/🖥️ Cyber Garden 🏝️.md",
+    "index.md",
     "BananaBrainwaves/🍌Banana Brainwaves🧠.md",
-    "draft/家庭低成本coffee使用记录.md",
     "BananaBrainwaves/Altered Carbon.md",
+    "BananaBrainwaves/Bug_Out_Bag.md",
     "CyberGarden/uPic-图床上传.md",
     "CyberGarden/uPic.md",
+    "draft/家庭低成本coffee使用记录.md",
     "CyberGarden/Obsidian/如何在Obsidian插入当天天气信息.md",
     "draft/Obsidian.md",
     "draft/Quartz 4.0 使用记录.md",
@@ -226,16 +204,13 @@
     "draft/社会羞辱.md",
     "draft/上海电影节三年.md",
     "Recipes/🍽Family Recipes🧑‍🍳.md",
-    "index.md",
     "Meanderings/漫长的春节.md",
     "Meanderings/冬季莫干山游记.md",
     "Meanderings/上海解封后的第120天.md",
     "Meanderings/复工的第三天.md",
-    "BananaBrainwaves/Bug_Out_Bag.md",
     "CyberGarden/Notion-在线笔记.md",
     "Meanderings/🙊Meanderings🕸️.md",
     "CyberGarden/Midjourney 和 Stable Diffusion 使用体验.md",
-    "CyberGarden/Typora-Markdown编辑器.md",
     "Meanderings/attachments/Pasted image 20240103103302.png",
     "Meanderings/attachments/0_3.webp",
     "Meanderings/attachments",
