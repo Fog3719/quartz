@@ -6,6 +6,9 @@ date: 2024-01-04 09:03:08
 date modified: 2024-01-04 09:53:43
 up: "[[🖥️ Cyber Garden 🏝️]]"
 ---
+> [!tip] 2023-10-26
+> 所以目前我的常用笔记应用也不再是 Notion 了，而是 [[Obsidian]]。但是制作旅行文档和一些需要协作完成的文档还是会用 Notion。
+
 
 ![[Screenshot2024001004009049036.png]]
 <center>notion.so</center>
@@ -18,4 +21,3 @@ Notion 支持插入的文件种类非常丰富，支持 Figma 文档嵌入，可
 
 不过 Notion 最大的问题是太慢了，国内的访问速度也比较慢。也只能放弃了。
 
-所以目前我的常用笔记应用也不再是 Notion 了，而是 [[Obsidian]]。但是制作旅行文档和一些需要协作完成的文档还是会用 Notion。
