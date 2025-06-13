@@ -16,7 +16,7 @@ import { styleText } from "util"
 const defaultOptions: SocialImageOptions = {
   colorScheme: "lightMode",
   width: 1200,
-  height: 630,
+  height: 476,
   imageStructure: defaultImage,
   excludeRoot: false,
 }
