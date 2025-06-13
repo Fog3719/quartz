@@ -38,7 +38,12 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      filterFn: (node) => {
+        // 只要 tags 里包含 explorerexclude，就不显示
+        return !(node.data?.tags?.includes("explorerexclude"))
+      },
+    }),
   ],
   right: [
     Component.Graph(),
