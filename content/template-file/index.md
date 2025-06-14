@@ -1,6 +1,6 @@
 ---
-tags:
-  - explorerexclude
-date created: 2025-20-五
-modified: 2025-21-五
+tags: [explorerexclude]
+date created: 2025-06-13
+modified: 2025-06-14
+aliases: []
 ---
